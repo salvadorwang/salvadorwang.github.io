@@ -6,6 +6,7 @@
    "date": "2024-06-10",
    "zh": "妈妈",
    "ja": null,
+   "kana": null,
    "meaning": "mama",
    "pos": "n."
   },
@@ -13,6 +14,7 @@
    "date": "2024-07-31",
    "zh": "嗯",
    "ja": null,
+   "kana": null,
    "meaning": "yes, positive",
    "pos": "interj."
   },
@@ -20,6 +22,7 @@
    "date": "2025-01-15",
    "zh": "爸爸",
    "ja": null,
+   "kana": null,
    "meaning": "papa",
    "pos": "n."
   },
@@ -27,6 +30,7 @@
    "date": "2025-05-20",
    "zh": "不(要)（mia/muya）",
    "ja": null,
+   "kana": null,
    "meaning": "no, negative",
    "pos": "interj."
   },
@@ -34,6 +38,7 @@
    "date": "2025-05-20",
    "zh": "姐姐（giegie）",
    "ja": null,
+   "kana": null,
    "meaning": "older sister",
    "pos": "n."
   },
@@ -41,6 +46,7 @@
    "date": "2025-05-30",
    "zh": "赳赳",
    "ja": null,
+   "kana": null,
    "meaning": "name of the reading pen",
    "pos": "pron."
   },
@@ -48,6 +54,7 @@
    "date": "2025-06-18",
    "zh": "骑骑",
    "ja": null,
+   "kana": null,
    "meaning": "name of a pillow",
    "pos": "pron."
   },
@@ -55,6 +62,7 @@
    "date": "2025-06-27",
    "zh": "没",
    "ja": null,
+   "kana": null,
    "meaning": "finish, no more",
    "pos": "adv."
   },
@@ -62,6 +70,7 @@
    "date": "2025-07-26",
    "zh": "奶奶（nāināi）",
    "ja": null,
+   "kana": null,
    "meaning": "grandma (fatherside)",
    "pos": "n."
   },
@@ -69,6 +78,7 @@
    "date": "2025-08-05",
    "zh": "奶奶（nāināi）",
    "ja": null,
+   "kana": null,
    "meaning": "milk",
    "pos": "n."
   },
@@ -76,6 +86,7 @@
    "date": "2025-08-10",
    "zh": null,
    "ja": "カーカー（aa）",
+   "kana": "かーかー",
    "meaning": "sound of crow",
    "pos": "n."
   },
@@ -83,6 +94,7 @@
    "date": "2025-09-18",
    "zh": null,
    "ja": "パパ",
+   "kana": "ぱぱ",
    "meaning": "papa",
    "pos": "n."
   },
@@ -90,6 +102,7 @@
    "date": "2025-09-18",
    "zh": "蛋蛋",
    "ja": null,
+   "kana": null,
    "meaning": "egg",
    "pos": "n."
   },
@@ -97,6 +110,7 @@
    "date": "2025-09-23",
    "zh": "拜拜",
    "ja": "バイバイ",
+   "kana": "ばいばい",
    "meaning": "bye",
    "pos": "interj."
   },
@@ -104,6 +118,7 @@
    "date": "2025-09-24",
    "zh": "饼饼（bǐnbin）",
    "ja": null,
+   "kana": null,
    "meaning": "cookie",
    "pos": "n."
   },
@@ -111,6 +126,7 @@
    "date": "2025-10-02",
    "zh": "球球（ququ）",
    "ja": null,
+   "kana": null,
    "meaning": "ball",
    "pos": "n."
   },
@@ -118,6 +134,7 @@
    "date": "2025-10-05",
    "zh": null,
    "ja": "アンパンマン（マンマン）",
+   "kana": "あんぱんまん",
    "meaning": "name of a character",
    "pos": "pron."
   },
@@ -125,6 +142,7 @@
    "date": "2025-10-10",
    "zh": "袜袜",
    "ja": null,
+   "kana": null,
    "meaning": "socks",
    "pos": "n."
   },
@@ -132,6 +150,7 @@
    "date": "2025-10-15",
    "zh": null,
    "ja": "ブーブー",
+   "kana": "ぶーぶー",
    "meaning": "car",
    "pos": "n."
   },
@@ -139,6 +158,7 @@
    "date": "2025-10-17",
    "zh": "帽帽",
    "ja": null,
+   "kana": null,
    "meaning": "hat",
    "pos": "n."
   },
@@ -146,6 +166,7 @@
    "date": "2025-10-19",
    "zh": "宝宝",
    "ja": null,
+   "kana": null,
    "meaning": "baby",
    "pos": "n."
   },
@@ -153,6 +174,7 @@
    "date": "2025-10-25",
    "zh": "走 (dou)",
    "ja": null,
+   "kana": null,
    "meaning": "go",
    "pos": "v."
   },
@@ -160,6 +182,7 @@
    "date": "2025-10-28",
    "zh": null,
    "ja": "先生（seisei）",
+   "kana": "せんせい",
    "meaning": "teacher",
    "pos": "n."
   },
@@ -167,6 +190,7 @@
    "date": "2025-10-31",
    "zh": "姥姥 (raorao)",
    "ja": null,
+   "kana": null,
    "meaning": "grandma (motherside)",
    "pos": "n."
   },
@@ -174,6 +198,7 @@
    "date": "2025-11-03",
    "zh": "坐",
    "ja": null,
+   "kana": null,
    "meaning": "sit",
    "pos": "v."
   },
@@ -181,6 +206,7 @@
    "date": "2025-11-15",
    "zh": null,
    "ja": "カード（ビビー）",
+   "kana": "かーど",
    "meaning": "card",
    "pos": "n."
   },
@@ -188,6 +214,7 @@
    "date": "2025-11-20",
    "zh": "面面(menmen)",
    "ja": "めんめん",
+   "kana": "めんめん",
    "meaning": "noodle",
    "pos": "n."
   },
@@ -195,6 +222,7 @@
    "date": "2025-11-25",
    "zh": "喂",
    "ja": null,
+   "kana": null,
    "meaning": "feed",
    "pos": "v."
   },
@@ -202,6 +230,7 @@
    "date": "2025-11-30",
    "zh": "笔笔",
    "ja": null,
+   "kana": null,
    "meaning": "pen",
    "pos": "n."
   },
@@ -209,6 +238,7 @@
    "date": "2025-12-04",
    "zh": null,
    "ja": "痛い（だいだい）",
+   "kana": "いたい",
    "meaning": "hurt",
    "pos": "adj."
   },
@@ -216,6 +246,7 @@
    "date": "2025-12-07",
    "zh": null,
    "ja": "あっち",
+   "kana": "あっち",
    "meaning": "there",
    "pos": "n."
   },
@@ -223,6 +254,7 @@
    "date": "2025-12-11",
    "zh": "么么哒",
    "ja": null,
+   "kana": null,
    "meaning": "kiss",
    "pos": "v."
   },
@@ -230,6 +262,7 @@
    "date": "2025-12-12",
    "zh": "雪",
    "ja": null,
+   "kana": null,
    "meaning": "snow",
    "pos": "n."
   },
@@ -237,6 +270,7 @@
    "date": "2025-12-14",
    "zh": "尿尿 (naonao)",
    "ja": null,
+   "kana": null,
    "meaning": "piss",
    "pos": "n."
   },
@@ -244,6 +278,7 @@
    "date": "2025-12-15",
    "zh": "谢谢",
    "ja": null,
+   "kana": null,
    "meaning": "Thanks",
    "pos": "interj."
   },
@@ -251,6 +286,7 @@
    "date": "2025-12-16",
    "zh": null,
    "ja": "ハイタッチ（タチ）",
+   "kana": "はいたっち",
    "meaning": "high five",
    "pos": "n."
   },
@@ -258,6 +294,7 @@
    "date": "2025-12-20",
    "zh": "一",
    "ja": null,
+   "kana": null,
    "meaning": "one",
    "pos": "num."
   },
@@ -265,6 +302,7 @@
    "date": "2025-12-23",
    "zh": "芋头",
    "ja": null,
+   "kana": null,
    "meaning": "taro",
    "pos": "n."
   },
@@ -272,6 +310,7 @@
    "date": "2025-12-24",
    "zh": null,
    "ja": "ふわふわ（フアフア）",
+   "kana": "ふわふわ",
    "meaning": "soft",
    "pos": "adj."
   },
@@ -279,6 +318,7 @@
    "date": "2025-12-29",
    "zh": "手机（ji）",
    "ja": null,
+   "kana": null,
    "meaning": "cellphone",
    "pos": "n."
   },
@@ -286,6 +326,7 @@
    "date": "2026-01-01",
    "zh": "马 (mama)",
    "ja": null,
+   "kana": null,
    "meaning": "horse",
    "pos": "n."
   },
@@ -293,6 +334,7 @@
    "date": "2026-01-01",
    "zh": null,
    "ja": "馬（ママ）",
+   "kana": "うま",
    "meaning": "horse",
    "pos": "n."
   },
@@ -300,6 +342,7 @@
    "date": "2026-01-02",
    "zh": "起",
    "ja": null,
+   "kana": null,
    "meaning": "stand up",
    "pos": "v."
   },
@@ -307,6 +350,7 @@
    "date": "2026-01-04",
    "zh": null,
    "ja": "犬（ワンワン）",
+   "kana": "いぬ",
    "meaning": "dog",
    "pos": "n."
   },
@@ -314,6 +358,7 @@
    "date": "2026-01-08",
    "zh": null,
    "ja": "また",
+   "kana": "また",
    "meaning": "see you",
    "pos": "interj."
   },
@@ -321,6 +366,7 @@
    "date": "2026-01-09",
    "zh": "兜兜",
    "ja": null,
+   "kana": null,
    "meaning": "apron",
    "pos": "n."
   },
@@ -328,6 +374,7 @@
    "date": "2026-01-11",
    "zh": "鲨鱼（shasha）",
    "ja": null,
+   "kana": null,
    "meaning": "shark",
    "pos": "n."
   },
@@ -335,6 +382,7 @@
    "date": "2026-01-13",
    "zh": null,
    "ja": "バナナ",
+   "kana": "ばなな",
    "meaning": "banana",
    "pos": "n."
   },
@@ -342,6 +390,7 @@
    "date": "2026-01-15",
    "zh": "饿",
    "ja": null,
+   "kana": null,
    "meaning": "hungry",
    "pos": "adj."
   },
@@ -349,6 +398,7 @@
    "date": "2026-01-15",
    "zh": null,
    "ja": "ぶた",
+   "kana": "ぶた",
    "meaning": "pig",
    "pos": "n."
   },
@@ -356,6 +406,7 @@
    "date": "2026-01-17",
    "zh": "手",
    "ja": null,
+   "kana": null,
    "meaning": "hand",
    "pos": "n."
   },
@@ -363,6 +414,7 @@
    "date": "2026-01-17",
    "zh": "脚",
    "ja": "あし",
+   "kana": "あし",
    "meaning": "foot",
    "pos": "n."
   },
@@ -370,6 +422,7 @@
    "date": "2026-01-19",
    "zh": null,
    "ja": "おいしい",
+   "kana": "おいしい",
    "meaning": "delicious",
    "pos": "adj."
   },
@@ -377,6 +430,7 @@
    "date": "2026-01-19",
    "zh": "比心",
    "ja": null,
+   "kana": null,
    "meaning": "love you",
    "pos": "interj."
   },
@@ -384,6 +438,7 @@
    "date": "2026-01-20",
    "zh": "晚安（wan a）",
    "ja": null,
+   "kana": null,
    "meaning": "good night",
    "pos": "interj."
   },
@@ -391,6 +446,7 @@
    "date": "2026-01-22",
    "zh": "抱",
    "ja": null,
+   "kana": null,
    "meaning": "hug, hold",
    "pos": "v."
   },
@@ -398,6 +454,7 @@
    "date": "2026-01-27",
    "zh": "好吃",
    "ja": null,
+   "kana": null,
    "meaning": "delicious",
    "pos": "n."
   },
@@ -405,6 +462,7 @@
    "date": "2026-01-27",
    "zh": "给",
    "ja": null,
+   "kana": null,
    "meaning": "give",
    "pos": "v."
   },
@@ -412,6 +470,7 @@
    "date": "2026-01-29",
    "zh": "爷爷",
    "ja": null,
+   "kana": null,
    "meaning": "grandfa(father side)",
    "pos": "n."
   },
@@ -419,6 +478,7 @@
    "date": "2026-02-01",
    "zh": "姥爷",
    "ja": null,
+   "kana": null,
    "meaning": "grandfa(mother side)",
    "pos": "n."
   },
@@ -426,6 +486,7 @@
    "date": "2026-02-04",
    "zh": "老师",
    "ja": null,
+   "kana": null,
    "meaning": "teacher",
    "pos": "n."
   },
@@ -433,6 +494,7 @@
    "date": "2026-02-04",
    "zh": "阿姨",
    "ja": null,
+   "kana": null,
    "meaning": "aunt",
    "pos": "n."
   },
@@ -440,6 +502,7 @@
    "date": "2026-02-04",
    "zh": "热（ye）",
    "ja": null,
+   "kana": null,
    "meaning": "hot",
    "pos": "adj."
   },
@@ -447,6 +510,7 @@
    "date": "2026-02-05",
    "zh": "学校",
    "ja": null,
+   "kana": null,
    "meaning": "school",
    "pos": "n."
   },
@@ -454,6 +518,7 @@
    "date": "2026-02-05",
    "zh": "叔叔",
    "ja": null,
+   "kana": null,
    "meaning": "uncle",
    "pos": "n."
   },
@@ -461,6 +526,7 @@
    "date": "2026-02-05",
    "zh": "电梯",
    "ja": null,
+   "kana": null,
    "meaning": "elevator",
    "pos": "n."
   },
@@ -468,6 +534,7 @@
    "date": "2026-02-06",
    "zh": null,
    "ja": "パンツ",
+   "kana": "ぱんつ",
    "meaning": "underwear",
    "pos": "n."
   },
@@ -475,6 +542,7 @@
    "date": "2026-02-07",
    "zh": null,
    "ja": "ジャンプ",
+   "kana": "じゃんぷ",
    "meaning": "jump",
    "pos": "v."
   },
@@ -482,6 +550,7 @@
    "date": "2026-02-08",
    "zh": "到了",
    "ja": null,
+   "kana": null,
    "meaning": "arrived",
    "pos": "v."
   },
@@ -489,6 +558,7 @@
    "date": "2026-02-09",
    "zh": "飞机",
    "ja": null,
+   "kana": null,
    "meaning": "airplane",
    "pos": "n."
   },
@@ -496,6 +566,7 @@
    "date": "2026-02-11",
    "zh": "关门",
    "ja": null,
+   "kana": null,
    "meaning": "close the door",
    "pos": "ph."
   },
@@ -503,6 +574,7 @@
    "date": "2026-02-12",
    "zh": "脸脸",
    "ja": null,
+   "kana": null,
    "meaning": "face",
    "pos": "n."
   },
@@ -510,6 +582,7 @@
    "date": "2026-02-12",
    "zh": "背背",
    "ja": null,
+   "kana": null,
    "meaning": "back",
    "pos": "n."
   },
@@ -517,6 +590,7 @@
    "date": "2026-02-13",
    "zh": "皮筋",
    "ja": null,
+   "kana": null,
    "meaning": "rubber band",
    "pos": "n."
   },
@@ -524,6 +598,7 @@
    "date": "2026-02-13",
    "zh": "哈喽",
    "ja": null,
+   "kana": null,
    "meaning": "hello",
    "pos": "interj."
   },
@@ -531,6 +606,7 @@
    "date": "2026-02-13",
    "zh": "地下",
    "ja": null,
+   "kana": null,
    "meaning": "ground",
    "pos": "n."
   },
@@ -538,6 +614,7 @@
    "date": "2026-02-13",
    "zh": "掉",
    "ja": null,
+   "kana": null,
    "meaning": "drop",
    "pos": "v."
   },
@@ -545,6 +622,7 @@
    "date": "2026-02-14",
    "zh": "眼睛",
    "ja": null,
+   "kana": null,
    "meaning": "eye",
    "pos": "n."
   },
@@ -552,6 +630,7 @@
    "date": "2026-02-14",
    "zh": "鼻子",
    "ja": null,
+   "kana": null,
    "meaning": "nose",
    "pos": "n."
   },
@@ -559,6 +638,7 @@
    "date": "2026-02-14",
    "zh": "嘴巴",
    "ja": null,
+   "kana": null,
    "meaning": "mouth",
    "pos": "n."
   },
@@ -566,6 +646,7 @@
    "date": "2026-02-14",
    "zh": "耳朵",
    "ja": null,
+   "kana": null,
    "meaning": "ear",
    "pos": "n."
   },
@@ -573,6 +654,7 @@
    "date": "2026-02-15",
    "zh": "耳机",
    "ja": null,
+   "kana": null,
    "meaning": "earphone",
    "pos": "n."
   },
@@ -580,6 +662,7 @@
    "date": "2026-02-16",
    "zh": "喝水",
    "ja": null,
+   "kana": null,
    "meaning": "drink water",
    "pos": "ph."
   },
@@ -587,6 +670,7 @@
    "date": "2026-02-16",
    "zh": "吃饭",
    "ja": null,
+   "kana": null,
    "meaning": "eat meal",
    "pos": "ph."
   },
@@ -594,6 +678,7 @@
    "date": "2026-02-16",
    "zh": "有",
    "ja": null,
+   "kana": null,
    "meaning": "have",
    "pos": "v."
   },
@@ -601,6 +686,7 @@
    "date": "2026-02-17",
    "zh": "这个",
    "ja": null,
+   "kana": null,
    "meaning": "this",
    "pos": "pron."
   },
@@ -608,6 +694,7 @@
    "date": "2026-02-17",
    "zh": "书",
    "ja": null,
+   "kana": null,
    "meaning": "book",
    "pos": "n."
   },
@@ -615,6 +702,7 @@
    "date": "2026-02-18",
    "zh": "大猩猩",
    "ja": null,
+   "kana": null,
    "meaning": "gorilla",
    "pos": "n."
   },
@@ -622,6 +710,7 @@
    "date": "2026-02-18",
    "zh": "帮",
    "ja": null,
+   "kana": null,
    "meaning": "help",
    "pos": "v."
   },
@@ -629,6 +718,7 @@
    "date": "2026-02-19",
    "zh": "鼻屎",
    "ja": null,
+   "kana": null,
    "meaning": "booger",
    "pos": "n."
   },
@@ -636,6 +726,7 @@
    "date": "2026-02-20",
    "zh": "记得",
    "ja": null,
+   "kana": null,
    "meaning": "remembered",
    "pos": "v."
   },
@@ -643,6 +734,7 @@
    "date": "2026-02-20",
    "zh": "这儿/这里",
    "ja": null,
+   "kana": null,
    "meaning": "here",
    "pos": "adv."
   },
@@ -650,6 +742,7 @@
    "date": "2026-02-21",
    "zh": "纸纸",
    "ja": null,
+   "kana": null,
    "meaning": "paper",
    "pos": "n."
   },
@@ -657,6 +750,7 @@
    "date": "2026-02-21",
    "zh": "狗狗",
    "ja": null,
+   "kana": null,
    "meaning": "dog",
    "pos": "n."
   },
@@ -664,6 +758,7 @@
    "date": "2026-02-22",
    "zh": "这样",
    "ja": null,
+   "kana": null,
    "meaning": "like this",
    "pos": "ph."
   },
@@ -671,6 +766,7 @@
    "date": "2026-02-23",
    "zh": "拿",
    "ja": null,
+   "kana": null,
    "meaning": "take, hold",
    "pos": "v."
   },
@@ -678,6 +774,7 @@
    "date": "2026-02-24",
    "zh": "刷牙",
    "ja": null,
+   "kana": null,
    "meaning": "bruth the teeth",
    "pos": "ph."
   },
@@ -685,6 +782,7 @@
    "date": "2026-02-24",
    "zh": "打",
    "ja": null,
+   "kana": null,
    "meaning": "hit",
    "pos": "v."
   },
@@ -692,6 +790,7 @@
    "date": "2026-02-24",
    "zh": "抹",
    "ja": null,
+   "kana": null,
    "meaning": "spread",
    "pos": "v."
   },
@@ -699,6 +798,7 @@
    "date": "2026-02-24",
    "zh": "香香",
    "ja": null,
+   "kana": null,
    "meaning": "skin cream",
    "pos": "n."
   },
@@ -706,6 +806,7 @@
    "date": "2026-02-24",
    "zh": "画画",
    "ja": null,
+   "kana": null,
    "meaning": "draw picture",
    "pos": "ph."
   },
@@ -713,6 +814,7 @@
    "date": "2026-02-24",
    "zh": "出门、出去",
    "ja": null,
+   "kana": null,
    "meaning": "go out",
    "pos": "ph."
   },
@@ -720,6 +822,7 @@
    "date": "2026-02-24",
    "zh": "公园",
    "ja": null,
+   "kana": null,
    "meaning": "park",
    "pos": "n."
   },
@@ -727,6 +830,7 @@
    "date": "2026-02-24",
    "zh": "放",
    "ja": null,
+   "kana": null,
    "meaning": "put",
    "pos": "v."
   },
@@ -734,6 +838,7 @@
    "date": "2026-02-25",
    "zh": "遛弯弯",
    "ja": null,
+   "kana": null,
    "meaning": "take a walk",
    "pos": "ph."
   },
@@ -741,6 +846,7 @@
    "date": "2026-02-25",
    "zh": "撕",
    "ja": null,
+   "kana": null,
    "meaning": "tear",
    "pos": "v."
   },
@@ -748,6 +854,7 @@
    "date": "2026-02-25",
    "zh": "擦",
    "ja": null,
+   "kana": null,
    "meaning": "wipe",
    "pos": "v."
   },
@@ -755,6 +862,7 @@
    "date": "2026-02-25",
    "zh": "拖地",
    "ja": null,
+   "kana": null,
    "meaning": "mop the floor",
    "pos": "ph."
   },
@@ -762,6 +870,7 @@
    "date": "2026-02-25",
    "zh": "做饭",
    "ja": null,
+   "kana": null,
    "meaning": "cook",
    "pos": "v."
   },
@@ -769,6 +878,7 @@
    "date": "2026-02-26",
    "zh": "肉肉",
    "ja": null,
+   "kana": null,
    "meaning": "meat",
    "pos": "n."
   },
@@ -776,6 +886,7 @@
    "date": "2026-02-26",
    "zh": "面包",
    "ja": null,
+   "kana": null,
    "meaning": "bread",
    "pos": "n."
   },
@@ -783,6 +894,7 @@
    "date": "2026-02-26",
    "zh": "豆腐",
    "ja": null,
+   "kana": null,
    "meaning": "tofu / dog's name",
    "pos": "n."
   },
@@ -790,6 +902,7 @@
    "date": "2026-02-26",
    "zh": "鱼",
    "ja": null,
+   "kana": null,
    "meaning": "fish",
    "pos": "n."
   },
@@ -797,6 +910,7 @@
    "date": "2026-02-26",
    "zh": "看电视",
    "ja": null,
+   "kana": null,
    "meaning": "watch TV",
    "pos": "ph."
   },
@@ -804,6 +918,7 @@
    "date": "2026-02-27",
    "zh": "玩具",
    "ja": null,
+   "kana": null,
    "meaning": "toy",
    "pos": "n."
   },
@@ -811,6 +926,7 @@
    "date": "2026-02-27",
    "zh": "猫猫",
    "ja": null,
+   "kana": null,
    "meaning": "cat",
    "pos": "n."
   },
@@ -818,6 +934,7 @@
    "date": "2026-02-27",
    "zh": "花花（fafa）",
    "ja": null,
+   "kana": null,
    "meaning": "flower",
    "pos": "n."
   },
@@ -825,6 +942,7 @@
    "date": "2026-02-27",
    "zh": "菜菜",
    "ja": null,
+   "kana": null,
    "meaning": "vegetable",
    "pos": "n."
   },
@@ -832,6 +950,7 @@
    "date": "2026-02-27",
    "zh": "米饭",
    "ja": null,
+   "kana": null,
    "meaning": "rice",
    "pos": "n."
   },
@@ -839,6 +958,7 @@
    "date": "2026-02-27",
    "zh": "粥",
    "ja": null,
+   "kana": null,
    "meaning": "porridge",
    "pos": "n."
   },
@@ -846,6 +966,7 @@
    "date": "2026-02-27",
    "zh": "汤",
    "ja": null,
+   "kana": null,
    "meaning": "soup",
    "pos": "n."
   },
@@ -853,6 +974,7 @@
    "date": "2026-02-27",
    "zh": "穿",
    "ja": null,
+   "kana": null,
    "meaning": "wear",
    "pos": "v."
   },
@@ -860,6 +982,7 @@
    "date": "2026-02-27",
    "zh": "裤裤",
    "ja": null,
+   "kana": null,
    "meaning": "trousers",
    "pos": "n."
   },
@@ -867,6 +990,7 @@
    "date": "2026-02-27",
    "zh": "外套",
    "ja": null,
+   "kana": null,
    "meaning": "coat",
    "pos": "n."
   },
@@ -874,6 +998,7 @@
    "date": "2026-02-27",
    "zh": "下雨",
    "ja": null,
+   "kana": null,
    "meaning": "rain",
    "pos": "n."
   },
@@ -881,6 +1006,7 @@
    "date": "2026-02-27",
    "zh": "臭",
    "ja": null,
+   "kana": null,
    "meaning": "stink",
    "pos": "adj."
   },
@@ -888,6 +1014,7 @@
    "date": "2026-02-27",
    "zh": "香",
    "ja": null,
+   "kana": null,
    "meaning": "fragrant",
    "pos": "adj."
   },
@@ -895,6 +1022,7 @@
    "date": "2026-02-27",
    "zh": "伤心",
    "ja": null,
+   "kana": null,
    "meaning": "sad.",
    "pos": "adj."
   },
@@ -902,6 +1030,7 @@
    "date": "2026-02-27",
    "zh": "开心",
    "ja": null,
+   "kana": null,
    "meaning": "happy",
    "pos": "adj."
   },
@@ -909,6 +1038,7 @@
    "date": "2026-02-27",
    "zh": null,
    "ja": "だめ",
+   "kana": "だめ",
    "meaning": "not allowed",
    "pos": "adj."
   },
@@ -916,6 +1046,7 @@
    "date": "2026-02-27",
    "zh": "屁屁",
    "ja": null,
+   "kana": null,
    "meaning": "butt",
    "pos": "n."
   },
@@ -923,6 +1054,7 @@
    "date": "2026-02-27",
    "zh": "洗",
    "ja": null,
+   "kana": null,
    "meaning": "wash",
    "pos": "v."
   },
@@ -930,6 +1062,7 @@
    "date": "2026-02-28",
    "zh": null,
    "ja": "ほっぺっぺ",
+   "kana": "ほっぺっぺ",
    "meaning": "cheeks",
    "pos": "n."
   },
@@ -937,6 +1070,7 @@
    "date": "2026-02-28",
    "zh": null,
    "ja": "トントンマンマン",
+   "kana": "とんとんまんまん",
    "meaning": "name of a song",
    "pos": "pron."
   },
@@ -944,6 +1078,7 @@
    "date": "2026-02-28",
    "zh": null,
    "ja": "バイキンマン",
+   "kana": "ばいきんまん",
    "meaning": "name of a character",
    "pos": "pron."
   },
@@ -951,6 +1086,7 @@
    "date": "2026-02-28",
    "zh": null,
    "ja": "ビブ",
+   "kana": "びぶ",
    "meaning": "name of a song",
    "pos": "pron."
   },
@@ -958,6 +1094,7 @@
    "date": "2026-02-28",
    "zh": null,
    "ja": "さんさん",
+   "kana": "さんさん",
    "meaning": "name of a song",
    "pos": "pron."
   },
@@ -965,6 +1102,7 @@
    "date": "2026-02-28",
    "zh": "鸭鸭",
    "ja": null,
+   "kana": null,
    "meaning": "duck",
    "pos": "n."
   },
@@ -972,6 +1110,7 @@
    "date": "2026-03-01",
    "zh": "拉屎",
    "ja": null,
+   "kana": null,
    "meaning": "shit",
    "pos": "v."
   },
@@ -979,6 +1118,7 @@
    "date": "2026-03-01",
    "zh": "拉臭臭",
    "ja": null,
+   "kana": null,
    "meaning": "shit",
    "pos": "v."
   },
@@ -986,6 +1126,7 @@
    "date": "2026-03-01",
    "zh": "安（装）",
    "ja": null,
+   "kana": null,
    "meaning": "install",
    "pos": "v."
   },
@@ -993,6 +1134,7 @@
    "date": "2026-03-01",
    "zh": "戴",
    "ja": null,
+   "kana": null,
    "meaning": "wear",
    "pos": "v."
   },
@@ -1000,6 +1142,7 @@
    "date": "2026-03-01",
    "zh": "掉了",
    "ja": null,
+   "kana": null,
    "meaning": "droped",
    "pos": "v."
   },
@@ -1007,6 +1150,7 @@
    "date": "2026-03-02",
    "zh": "睡觉",
    "ja": null,
+   "kana": null,
    "meaning": "sleep",
    "pos": "v."
   },
@@ -1014,6 +1158,7 @@
    "date": "2026-03-05",
    "zh": null,
    "ja": "風船",
+   "kana": "ふうせん",
    "meaning": "ballon",
    "pos": "n."
   },
@@ -1021,6 +1166,7 @@
    "date": "2026-03-05",
    "zh": null,
    "ja": "ドキンちゃん",
+   "kana": "どきんちゃん",
    "meaning": "name of a character",
    "pos": "pron."
   },
@@ -1028,6 +1174,7 @@
    "date": "2026-03-05",
    "zh": null,
    "ja": "あとで",
+   "kana": "あとで",
    "meaning": "see you",
    "pos": "ph."
   },
@@ -1035,6 +1182,7 @@
    "date": "2026-03-05",
    "zh": "都是",
    "ja": null,
+   "kana": null,
    "meaning": "all belong to…",
    "pos": "ph."
   },
@@ -1042,6 +1190,7 @@
    "date": "2026-03-05",
    "zh": "的",
    "ja": null,
+   "kana": null,
    "meaning": "of (sb.)",
    "pos": "prep."
   },
@@ -1049,6 +1198,7 @@
    "date": "2026-03-05",
    "zh": "拼图",
    "ja": null,
+   "kana": null,
    "meaning": "puzzle",
    "pos": "n."
   },
@@ -1056,6 +1206,7 @@
    "date": "2026-03-05",
    "zh": "咩咩",
    "ja": null,
+   "kana": null,
    "meaning": "sheep",
    "pos": "n."
   },
@@ -1063,6 +1214,7 @@
    "date": "2026-03-05",
    "zh": "打开",
    "ja": null,
+   "kana": null,
    "meaning": "open",
    "pos": "v."
   },
@@ -1070,6 +1222,7 @@
    "date": "2026-03-05",
    "zh": "能",
    "ja": null,
+   "kana": null,
    "meaning": "can",
    "pos": "v."
   },
@@ -1077,6 +1230,7 @@
    "date": "2026-03-06",
    "zh": "防晒",
    "ja": null,
+   "kana": null,
    "meaning": "sun cream",
    "pos": "n."
   },
@@ -1084,6 +1238,7 @@
    "date": "2026-03-09",
    "zh": "花洒",
    "ja": null,
+   "kana": null,
    "meaning": "showerhead",
    "pos": "n."
   },
@@ -1091,6 +1246,7 @@
    "date": "2026-03-10",
    "zh": "来",
    "ja": null,
+   "kana": null,
    "meaning": "come",
    "pos": "v."
   },
@@ -1098,6 +1254,7 @@
    "date": "2026-03-11",
    "zh": null,
    "ja": "お終い",
+   "kana": "おしまい",
    "meaning": "finish (end of story)",
    "pos": "n."
   },
@@ -1105,6 +1262,7 @@
    "date": "2026-03-14",
    "zh": null,
    "ja": "トトロ",
+   "kana": "ととろ",
    "meaning": "name of a character",
    "pos": "n."
   },
@@ -1112,6 +1270,7 @@
    "date": "2026-03-14",
    "zh": "拉粑粑",
    "ja": null,
+   "kana": null,
    "meaning": "shit",
    "pos": "v."
   },
@@ -1119,6 +1278,7 @@
    "date": "2026-03-14",
    "zh": "了",
    "ja": null,
+   "kana": null,
    "meaning": "finished doing sth.",
    "pos": "ptcl."
   },
@@ -1126,6 +1286,7 @@
    "date": "2026-03-14",
    "zh": "拜托",
    "ja": null,
+   "kana": null,
    "meaning": "please",
    "pos": "v."
   },
@@ -1133,6 +1294,7 @@
    "date": "2026-03-14",
    "zh": "垃圾",
    "ja": null,
+   "kana": null,
    "meaning": "rubbish",
    "pos": "n."
   },
@@ -1140,6 +1302,7 @@
    "date": "2026-03-14",
    "zh": null,
    "ja": "なに",
+   "kana": "なに",
    "meaning": "what",
    "pos": "interrog."
   },
@@ -1147,6 +1310,7 @@
    "date": "2026-03-14",
    "zh": "眼镜",
    "ja": null,
+   "kana": null,
    "meaning": "glass",
    "pos": "n."
   },
@@ -1154,6 +1318,7 @@
    "date": "2026-03-14",
    "zh": "拍照",
    "ja": null,
+   "kana": null,
    "meaning": "take photo",
    "pos": "v."
   },
@@ -1161,6 +1326,7 @@
    "date": "2026-03-15",
    "zh": "完了",
    "ja": null,
+   "kana": null,
    "meaning": "finished",
    "pos": "v."
   },
@@ -1168,6 +1334,7 @@
    "date": "2026-03-15",
    "zh": null,
    "ja": "あれ",
+   "kana": "あれ",
    "meaning": "En?",
    "pos": "interj."
   },
@@ -1175,6 +1342,7 @@
    "date": "2026-03-15",
    "zh": null,
    "ja": "可愛い",
+   "kana": "かわい",
    "meaning": "cute",
    "pos": "adj."
   },
@@ -1182,6 +1350,7 @@
    "date": "2026-03-16",
    "zh": null,
    "ja": "もういいかい？まただよ",
+   "kana": "もういいかい？まただよ",
    "meaning": "hide and seak",
    "pos": "ph."
   },
@@ -1189,6 +1358,7 @@
    "date": "2026-03-17",
    "zh": null,
    "ja": "学校",
+   "kana": "がっこう",
    "meaning": "school",
    "pos": "n."
   },
@@ -1196,6 +1366,7 @@
    "date": "2026-03-18",
    "zh": null,
    "ja": "明日",
+   "kana": "あした",
    "meaning": "tomorrow",
    "pos": "n."
   },
@@ -1203,6 +1374,7 @@
    "date": "2026-03-27",
    "zh": "洒了",
    "ja": null,
+   "kana": null,
    "meaning": "spilled",
    "pos": "v."
   },
@@ -1210,6 +1382,7 @@
    "date": "2026-03-27",
    "zh": "伸懒腰",
    "ja": null,
+   "kana": null,
    "meaning": "stretch",
    "pos": "v."
   },
@@ -1217,6 +1390,7 @@
    "date": "2026-03-28",
    "zh": null,
    "ja": "お茶",
+   "kana": "おちゃ",
    "meaning": "tea",
    "pos": "n."
   },
@@ -1224,6 +1398,7 @@
    "date": "2026-04-02",
    "zh": "东西",
    "ja": null,
+   "kana": null,
    "meaning": "thing",
    "pos": "pron."
   },
@@ -1231,6 +1406,7 @@
    "date": "2026-04-02",
    "zh": null,
    "ja": "来た",
+   "kana": "きた",
    "meaning": "came",
    "pos": "v."
   },
@@ -1238,6 +1414,7 @@
    "date": "2026-04-03",
    "zh": null,
    "ja": "おやつ",
+   "kana": "おやつ",
    "meaning": "sweets",
    "pos": "n."
   },
@@ -1245,6 +1422,7 @@
    "date": "2026-04-03",
    "zh": null,
    "ja": "どっちだ",
+   "kana": "どっちだ",
    "meaning": "Which one",
    "pos": "ph."
   },
@@ -1252,6 +1430,7 @@
    "date": "2026-04-03",
    "zh": "有",
    "ja": null,
+   "kana": null,
    "meaning": "have",
    "pos": "v."
   },
@@ -1259,6 +1438,7 @@
    "date": "2026-04-03",
    "zh": "从一数到八",
    "ja": null,
+   "kana": null,
    "meaning": "one to ten",
    "pos": "num."
   },
@@ -1266,6 +1446,7 @@
    "date": "2026-04-03",
    "zh": null,
    "ja": "从一数到十",
+   "kana": "じゅういちかずとうじゅう",
    "meaning": "one to ten",
    "pos": "num."
   },
@@ -1273,6 +1454,7 @@
    "date": "2026-04-03",
    "zh": null,
    "ja": "カメ",
+   "kana": "かめ",
    "meaning": "turtle",
    "pos": "n."
   },
@@ -1280,6 +1462,7 @@
    "date": "2026-04-03",
    "zh": null,
    "ja": "メロン",
+   "kana": "めろん",
    "meaning": "melon",
    "pos": "n."
   },
@@ -1287,6 +1470,7 @@
    "date": "2026-04-04",
    "zh": "酱油",
    "ja": null,
+   "kana": null,
    "meaning": "soy sause",
    "pos": "n."
   },
@@ -1294,6 +1478,7 @@
    "date": "2026-04-04",
    "zh": "香油",
    "ja": null,
+   "kana": null,
    "meaning": "oil",
    "pos": "n."
   },
@@ -1301,6 +1486,7 @@
    "date": "2026-04-04",
    "zh": null,
    "ja": "これは？",
+   "kana": "これは？",
    "meaning": "What's this",
    "pos": "ph."
   },
@@ -1308,6 +1494,7 @@
    "date": "2026-04-04",
    "zh": null,
    "ja": "電車",
+   "kana": "でんしゃ",
    "meaning": "electric train",
    "pos": "n."
   },
@@ -1315,6 +1502,7 @@
    "date": "2026-04-05",
    "zh": "咖啡",
    "ja": null,
+   "kana": null,
    "meaning": "coffee",
    "pos": "n."
   },
@@ -1322,6 +1510,7 @@
    "date": "2026-04-05",
    "zh": null,
    "ja": "ありがと",
+   "kana": "ありがと",
    "meaning": "Thanks",
    "pos": "interj."
   },
@@ -1329,6 +1518,7 @@
    "date": "2026-04-05",
    "zh": null,
    "ja": "ウサギ",
+   "kana": "うさぎ",
    "meaning": "rabbit",
    "pos": "n."
   },
@@ -1336,6 +1526,7 @@
    "date": "2026-04-07",
    "zh": null,
    "ja": "パンダ",
+   "kana": "ぱんだ",
    "meaning": "giant panda",
    "pos": "n."
   },
@@ -1343,6 +1534,7 @@
    "date": "2026-04-08",
    "zh": null,
    "ja": "座れ",
+   "kana": "すわれ",
    "meaning": "sit",
    "pos": "v."
   },
@@ -1350,6 +1542,7 @@
    "date": "2026-04-09",
    "zh": null,
    "ja": "始まろう",
+   "kana": "はじまろう",
    "meaning": "Let's begin",
    "pos": "v."
   },
@@ -1357,6 +1550,7 @@
    "date": "2026-04-10",
    "zh": null,
    "ja": "いない",
+   "kana": "いない",
    "meaning": "not present",
    "pos": "v."
   },
@@ -1364,6 +1558,7 @@
    "date": "2026-04-11",
    "zh": "磨牙棒",
    "ja": null,
+   "kana": null,
    "meaning": "Teething stick",
    "pos": "n."
   },
@@ -1371,6 +1566,7 @@
    "date": "2026-04-11",
    "zh": null,
    "ja": "どうしたの",
+   "kana": "どうしたの",
    "meaning": "What happened?",
    "pos": "ph."
   },
@@ -1378,6 +1574,7 @@
    "date": "2026-04-11",
    "zh": null,
    "ja": "あか",
+   "kana": "あか",
    "meaning": "red",
    "pos": "n."
   },
@@ -1385,6 +1582,7 @@
    "date": "2026-04-11",
    "zh": null,
    "ja": "みどり",
+   "kana": "みどり",
    "meaning": "green",
    "pos": "n."
   },
@@ -1392,6 +1590,7 @@
    "date": "2026-04-12",
    "zh": null,
    "ja": "ごめんね",
+   "kana": "ごめんね",
    "meaning": "sorry",
    "pos": "interj."
   },
@@ -1399,6 +1598,7 @@
    "date": "2026-04-12",
    "zh": null,
    "ja": "ドーナツ",
+   "kana": "どーなつ",
    "meaning": "donuts",
    "pos": "n."
   },
@@ -1406,6 +1606,7 @@
    "date": "2026-04-13",
    "zh": null,
    "ja": "せーのっ",
+   "kana": "せーのっ",
    "meaning": "Ready…Start",
    "pos": "ph."
   },
@@ -1413,6 +1614,7 @@
    "date": "2026-04-16",
    "zh": "手帕",
    "ja": null,
+   "kana": null,
    "meaning": "handkerchief",
    "pos": "n."
   },
@@ -1420,6 +1622,7 @@
    "date": "2026-04-16",
    "zh": null,
    "ja": "トマト",
+   "kana": "とまと",
    "meaning": "tomato",
    "pos": "n."
   },
@@ -1427,6 +1630,7 @@
    "date": "2026-04-17",
    "zh": "还有",
    "ja": null,
+   "kana": null,
    "meaning": "and",
    "pos": "conj."
   },
@@ -1434,6 +1638,7 @@
    "date": "2026-04-17",
    "zh": null,
    "ja": "誰",
+   "kana": "だれ",
    "meaning": "who",
    "pos": "interrog."
   },
@@ -1441,6 +1646,7 @@
    "date": "2026-04-17",
    "zh": null,
    "ja": "と",
+   "kana": "と",
    "meaning": "and",
    "pos": "conj."
   },
@@ -1448,6 +1654,7 @@
    "date": "2026-04-18",
    "zh": "闭上眼睛",
    "ja": null,
+   "kana": null,
    "meaning": "close your eyes",
    "pos": "ph."
   },
@@ -1455,6 +1662,7 @@
    "date": "2026-04-19",
    "zh": null,
    "ja": "冷たい",
+   "kana": "つめたい",
    "meaning": "cold",
    "pos": "adj."
   },
@@ -1462,6 +1670,7 @@
    "date": "2026-04-20",
    "zh": null,
    "ja": "出てない",
+   "kana": "でてない",
    "meaning": "not coming out",
    "pos": "ph."
   },
@@ -1469,6 +1678,7 @@
    "date": "2026-04-21",
    "zh": "凳凳",
    "ja": null,
+   "kana": null,
    "meaning": "chair",
    "pos": "n."
   },
@@ -1476,6 +1686,7 @@
    "date": "2026-04-22",
    "zh": "头发",
    "ja": null,
+   "kana": null,
    "meaning": "hair",
    "pos": "n."
   },
@@ -1483,6 +1694,7 @@
    "date": "2026-04-22",
    "zh": null,
    "ja": "飲む",
+   "kana": "のむ",
    "meaning": "drink",
    "pos": "v."
   },
@@ -1490,6 +1702,7 @@
    "date": "2026-04-22",
    "zh": "不记得了",
    "ja": null,
+   "kana": null,
    "meaning": "don't remember",
    "pos": "ph."
   },
@@ -1497,6 +1710,7 @@
    "date": "2026-04-22",
    "zh": "一起",
    "ja": null,
+   "kana": null,
    "meaning": "together",
    "pos": "adv."
   },
@@ -1504,6 +1718,7 @@
    "date": "2026-04-22",
    "zh": "挽袖袖",
    "ja": null,
+   "kana": null,
    "meaning": "roll up sleeves",
    "pos": "ph."
   },
@@ -1511,6 +1726,7 @@
    "date": "2026-04-22",
    "zh": null,
    "ja": "うち",
+   "kana": "うち",
    "meaning": "home",
    "pos": "n."
   },
@@ -1518,6 +1734,7 @@
    "date": "2026-04-22",
    "zh": null,
    "ja": "の",
+   "kana": "の",
    "meaning": "of",
    "pos": "prep."
   },
@@ -1525,6 +1742,7 @@
    "date": "2026-04-25",
    "zh": null,
    "ja": "一緒ね",
+   "kana": "いっしょね",
    "meaning": "(we are) the same",
    "pos": "ph."
   },
@@ -1532,6 +1750,7 @@
    "date": "2026-04-25",
    "zh": null,
    "ja": "メヒガノ",
+   "kana": "めひがの",
    "meaning": "mexican",
    "pos": "n."
   },
@@ -1539,6 +1758,7 @@
    "date": "2026-04-27",
    "zh": null,
    "ja": "むし",
+   "kana": "むし",
    "meaning": "bugs",
    "pos": "n."
   },
@@ -1546,6 +1766,7 @@
    "date": "2026-04-27",
    "zh": null,
    "ja": "怖い",
+   "kana": "こわい",
    "meaning": "scary",
    "pos": "adj."
   },
@@ -1553,6 +1774,7 @@
    "date": "2026-04-27",
    "zh": null,
    "ja": "2歳",
+   "kana": "2とし",
    "meaning": "2 years old",
    "pos": "ph."
   },
@@ -1560,6 +1782,7 @@
    "date": "2026-04-28",
    "zh": null,
    "ja": "重い",
+   "kana": "おもい",
    "meaning": "heavy",
    "pos": "adj."
   },
@@ -1567,6 +1790,7 @@
    "date": "2026-04-28",
    "zh": null,
    "ja": "きらきら星",
+   "kana": "きらきらほし",
    "meaning": "name of a song",
    "pos": "n."
   },
@@ -1574,6 +1798,7 @@
    "date": "2026-04-28",
    "zh": null,
    "ja": "すごい",
+   "kana": "すごい",
    "meaning": "amazing",
    "pos": "adj."
   },
@@ -1581,6 +1806,7 @@
    "date": "2026-04-28",
    "zh": null,
    "ja": "気持ちいい",
+   "kana": "きもちいい",
    "meaning": "comfortable",
    "pos": "adj."
   },
@@ -1588,6 +1814,7 @@
    "date": "2026-04-29",
    "zh": null,
    "ja": "お尻",
+   "kana": "おしり",
    "meaning": "butt",
    "pos": "n."
   },
@@ -1595,6 +1822,7 @@
    "date": "2026-04-29",
    "zh": null,
    "ja": "速い",
+   "kana": "はやい",
    "meaning": "fast",
    "pos": "adj."
   },
@@ -1602,6 +1830,7 @@
    "date": "2026-04-29",
    "zh": null,
    "ja": "ひよこ",
+   "kana": "ひよこ",
    "meaning": "chick",
    "pos": "n."
   },
@@ -1609,6 +1838,7 @@
    "date": "2026-04-30",
    "zh": null,
    "ja": "救急車",
+   "kana": "きゅうきゅうしゃ",
    "meaning": "ambulance",
    "pos": "n."
   },
@@ -1616,6 +1846,7 @@
    "date": "2026-04-30",
    "zh": "肿么啦",
    "ja": null,
+   "kana": null,
    "meaning": "what's wrong",
    "pos": "ph."
   },
@@ -1623,6 +1854,7 @@
    "date": "2026-05-01",
    "zh": null,
    "ja": "ピカチュ",
+   "kana": "ぴかちゅ",
    "meaning": "name of a character",
    "pos": "n."
   },
@@ -1630,6 +1862,7 @@
    "date": "2026-05-02",
    "zh": null,
    "ja": "もっともっと",
+   "kana": "もっともっと",
    "meaning": "more more",
    "pos": "adv."
   },
@@ -1637,6 +1870,7 @@
    "date": "2026-05-03",
    "zh": null,
    "ja": "まる",
+   "kana": "まる",
    "meaning": "circle",
    "pos": "n."
   },
@@ -1644,6 +1878,7 @@
    "date": "2026-05-03",
    "zh": null,
    "ja": "鬼",
+   "kana": "おに",
    "meaning": "ogre",
    "pos": "n."
   },
@@ -1651,6 +1886,7 @@
    "date": "2026-05-05",
    "zh": null,
    "ja": "ピアノ",
+   "kana": "ぴあの",
    "meaning": "piano",
    "pos": "n."
   },
@@ -1658,6 +1894,7 @@
    "date": "2026-05-09",
    "zh": null,
    "ja": "葡萄",
+   "kana": "ぶどう",
    "meaning": "grapes",
    "pos": "n."
   },
@@ -1665,6 +1902,7 @@
    "date": "2026-05-09",
    "zh": null,
    "ja": "頭",
+   "kana": "あたま",
    "meaning": "head",
    "pos": "n."
   },
@@ -1672,6 +1910,7 @@
    "date": "2026-05-09",
    "zh": null,
    "ja": "甘い",
+   "kana": "あまい",
    "meaning": "sweet",
    "pos": "adj."
   },
@@ -1679,6 +1918,7 @@
    "date": "2026-05-10",
    "zh": null,
    "ja": "新幹線",
+   "kana": "しんかんせん",
    "meaning": "bullet train",
    "pos": "n."
   },
@@ -1686,6 +1926,7 @@
    "date": "2026-05-11",
    "zh": null,
    "ja": "xxして",
+   "kana": "xxして",
    "meaning": "do sth.",
    "pos": "ph."
   },
@@ -1693,6 +1934,7 @@
    "date": "2026-05-11",
    "zh": null,
    "ja": "ゴリラ",
+   "kana": "ごりら",
    "meaning": "gorilla",
    "pos": "n."
   },
@@ -1700,6 +1942,7 @@
    "date": "2026-05-12",
    "zh": "哔哔",
    "ja": null,
+   "kana": null,
    "meaning": "card",
    "pos": "n."
   },
@@ -1707,6 +1950,7 @@
    "date": "2026-05-21",
    "zh": null,
    "ja": "こんにちは",
+   "kana": "こんにちは",
    "meaning": "hello",
    "pos": "interj."
   },
@@ -1714,6 +1958,7 @@
    "date": "2026-05-27",
    "zh": "充电",
    "ja": null,
+   "kana": null,
    "meaning": "charge",
    "pos": "v."
   },
@@ -1721,6 +1966,7 @@
    "date": "2026-05-30",
    "zh": null,
    "ja": "入れて",
+   "kana": "いれて",
    "meaning": "put xx inside",
    "pos": "v."
   },
@@ -1728,6 +1974,7 @@
    "date": "2026-06-02",
    "zh": null,
    "ja": "見せて",
+   "kana": "みせて",
    "meaning": "let sb. see sth.",
    "pos": "v."
   },
@@ -1735,6 +1982,7 @@
    "date": "2026-06-03",
    "zh": null,
    "ja": "危ない",
+   "kana": "あぶない",
    "meaning": "dangerous",
    "pos": "adj."
   },
@@ -1742,6 +1990,7 @@
    "date": "2026-06-04",
    "zh": null,
    "ja": "ダンゴムシ",
+   "kana": "だんごむし",
    "meaning": "pill bug",
    "pos": "n."
   },
@@ -1749,6 +1998,7 @@
    "date": "2026-06-04",
    "zh": null,
    "ja": "蝶ちょう",
+   "kana": "ちょうちょう",
    "meaning": "butterfly",
    "pos": "n."
   },
@@ -1756,6 +2006,7 @@
    "date": "2026-06-04",
    "zh": null,
    "ja": "あった",
+   "kana": "あった",
    "meaning": "found it",
    "pos": "v."
   },
@@ -1763,6 +2014,7 @@
    "date": "2026-06-04",
    "zh": null,
    "ja": "落ちちゃた",
+   "kana": "おちちゃた",
    "meaning": "dropped",
    "pos": "v."
   },
@@ -1770,6 +2022,7 @@
    "date": "2026-06-05",
    "zh": null,
    "ja": "やめて",
+   "kana": "やめて",
    "meaning": "stop",
    "pos": "v."
   },
@@ -1777,6 +2030,7 @@
    "date": "2026-06-05",
    "zh": null,
    "ja": "手伝って",
+   "kana": "てつだって",
    "meaning": "help",
    "pos": "v."
   },
@@ -1784,6 +2038,7 @@
    "date": "2026-06-05",
    "zh": null,
    "ja": "もう",
+   "kana": "もう",
    "meaning": "complain",
    "pos": "interj."
   },
@@ -1791,6 +2046,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "餃子",
+   "kana": "ぎょうざ",
    "meaning": "dumplings",
    "pos": "n."
   },
@@ -1798,6 +2054,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "ご飯",
+   "kana": "ごめし",
    "meaning": "rice",
    "pos": "n."
   },
@@ -1805,6 +2062,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "全部",
+   "kana": "ぜんぶ",
    "meaning": "all",
    "pos": "adv."
   },
@@ -1812,6 +2070,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "いっぱい",
+   "kana": "いっぱい",
    "meaning": "a lot",
    "pos": "adv."
   },
@@ -1819,6 +2078,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "持って",
+   "kana": "もって",
    "meaning": "take/have",
    "pos": "v."
   },
@@ -1826,6 +2086,7 @@
    "date": "2026-06-07",
    "zh": null,
    "ja": "終わったら",
+   "kana": "おわったら",
    "meaning": "after finish",
    "pos": "ph."
   },
@@ -1833,6 +2094,7 @@
    "date": "2026-06-10",
    "zh": null,
    "ja": "カラス",
+   "kana": "からす",
    "meaning": "crow",
    "pos": "n."
   },
@@ -1840,6 +2102,7 @@
    "date": "2026-06-11",
    "zh": null,
    "ja": "まず",
+   "kana": "まず",
    "meaning": "first",
    "pos": "adv."
   },
@@ -1847,6 +2110,7 @@
    "date": "2026-06-13",
    "zh": null,
    "ja": "きゅうり",
+   "kana": "きゅうり",
    "meaning": "cucumber",
    "pos": "n."
   },
@@ -1854,6 +2118,7 @@
    "date": "2026-06-13",
    "zh": null,
    "ja": "壊れちゃった",
+   "kana": "こわれちゃった",
    "meaning": "broken",
    "pos": "v."
   },
@@ -1861,6 +2126,7 @@
    "date": "2026-06-13",
    "zh": null,
    "ja": "おしこ",
+   "kana": "おしこ",
    "meaning": "piss",
    "pos": "n."
   },
@@ -1868,6 +2134,7 @@
    "date": "2026-06-13",
    "zh": null,
    "ja": "どこ",
+   "kana": "どこ",
    "meaning": "where",
    "pos": "adv."
   },
@@ -1875,6 +2142,7 @@
    "date": "2026-06-14",
    "zh": null,
    "ja": "スズメ",
+   "kana": "すずめ",
    "meaning": "sparrow",
    "pos": "n."
   },
@@ -1882,6 +2150,7 @@
    "date": "2026-06-16",
    "zh": null,
    "ja": "ちょっと待って",
+   "kana": "ちょっとまって",
    "meaning": "wait a moment",
    "pos": "ph."
   },
@@ -1889,6 +2158,7 @@
    "date": "2026-06-17",
    "zh": null,
    "ja": "お兄さん",
+   "kana": "おにいさん",
    "meaning": "older brother",
    "pos": "n."
   },
@@ -1896,6 +2166,7 @@
    "date": "2026-06-17",
    "zh": null,
    "ja": "お姉さん",
+   "kana": "おねえさん",
    "meaning": "older sister",
    "pos": "n."
   },
@@ -1903,6 +2174,7 @@
    "date": "2026-06-17",
    "zh": null,
    "ja": "遊ぼう",
+   "kana": "あそぼう",
    "meaning": "let's play",
    "pos": "v."
   },
@@ -1910,6 +2182,7 @@
    "date": "2026-06-23",
    "zh": null,
    "ja": "カレー",
+   "kana": "かれー",
    "meaning": "curry",
    "pos": "n."
   },
@@ -1917,6 +2190,7 @@
    "date": "2026-06-24",
    "zh": null,
    "ja": "閉まって",
+   "kana": "しまって",
    "meaning": "close",
    "pos": "v."
   },
@@ -1924,6 +2198,7 @@
    "date": "2026-06-24",
    "zh": null,
    "ja": "ところ",
+   "kana": "ところ",
    "meaning": "place",
    "pos": "n."
   },
@@ -1931,6 +2206,7 @@
    "date": "2026-06-24",
    "zh": null,
    "ja": "絞って",
+   "kana": "しぼって",
    "meaning": "squeeze",
    "pos": "v."
   },
@@ -1938,6 +2214,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "食べる",
+   "kana": "たべる",
    "meaning": "eat",
    "pos": "v."
   },
@@ -1945,6 +2222,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "だって",
+   "kana": "だって",
    "meaning": "sb. said...",
    "pos": "ptcl."
   },
@@ -1952,6 +2230,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "は",
+   "kana": "は",
    "meaning": "particle for subject",
    "pos": "ptcl."
   },
@@ -1959,6 +2238,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "に",
+   "kana": "に",
    "meaning": "particle for object",
    "pos": "ptcl."
   },
@@ -1966,6 +2246,7 @@
    "date": "2026-06-27",
    "zh": "风扇",
    "ja": null,
+   "kana": null,
    "meaning": "fan",
    "pos": "n."
   },
@@ -1973,6 +2254,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "いただきます",
+   "kana": "いただきます",
    "meaning": "I will eat",
    "pos": "ph."
   },
@@ -1980,6 +2262,7 @@
    "date": "2026-06-27",
    "zh": null,
    "ja": "起きた",
+   "kana": "おきた",
    "meaning": "wake up",
    "pos": "v."
   },
@@ -1987,6 +2270,7 @@
    "date": "2026-07-01",
    "zh": null,
    "ja": "これがいい",
+   "kana": "これがいい",
    "meaning": "this is fine",
    "pos": "ph."
   },
@@ -1994,6 +2278,7 @@
    "date": "2026-07-02",
    "zh": null,
    "ja": "しっぽ",
+   "kana": "しっぽ",
    "meaning": "tail",
    "pos": "n."
   },
@@ -2001,6 +2286,7 @@
    "date": "2026-07-02",
    "zh": null,
    "ja": "時計",
+   "kana": "とけい",
    "meaning": "clock",
    "pos": "n."
   },
@@ -2008,6 +2294,7 @@
    "date": "2026-07-03",
    "zh": null,
    "ja": "ただいま",
+   "kana": "ただいま",
    "meaning": "I arrived",
    "pos": "ph."
   },
@@ -2015,6 +2302,7 @@
    "date": "2026-07-03",
    "zh": null,
    "ja": "お帰り",
+   "kana": "おかえり",
    "meaning": "welcome back",
    "pos": "ph."
   },
@@ -2022,6 +2310,7 @@
    "date": "2026-07-04",
    "zh": null,
    "ja": "よし",
+   "kana": "よし",
    "meaning": "nice",
    "pos": "n."
   },
@@ -2029,6 +2318,7 @@
    "date": "2026-07-05",
    "zh": null,
    "ja": "寝る",
+   "kana": "ねる",
    "meaning": "sleep",
    "pos": "v."
   },
@@ -2036,6 +2326,7 @@
    "date": "2026-07-05",
    "zh": null,
    "ja": "見えない",
+   "kana": "みえない",
    "meaning": "can't see",
    "pos": "v."
   },
@@ -2043,6 +2334,7 @@
    "date": "2026-07-05",
    "zh": null,
    "ja": "ストップ",
+   "kana": "すとっぷ",
    "meaning": "stop",
    "pos": "interrog."
   },
@@ -2050,6 +2342,7 @@
    "date": "2026-07-06",
    "zh": null,
    "ja": "弁当",
+   "kana": "べんとう",
    "meaning": "box lunch",
    "pos": "n."
   },
@@ -2057,6 +2350,7 @@
    "date": "2026-07-06",
    "zh": null,
    "ja": "xxじゃない",
+   "kana": "xxじゃない",
    "meaning": "it's not…",
    "pos": "ph."
   },
@@ -2064,6 +2358,7 @@
    "date": "2026-07-07",
    "zh": null,
    "ja": "サンドイッチ",
+   "kana": "さんどいっち",
    "meaning": "sandwich",
    "pos": "n."
   },
@@ -2071,6 +2366,7 @@
    "date": "2026-07-07",
    "zh": null,
    "ja": "履いて",
+   "kana": "はいて",
    "meaning": "put on (shoes)",
    "pos": "v."
   },
@@ -2078,6 +2374,7 @@
    "date": "2026-07-07",
    "zh": null,
    "ja": "当ててみて",
+   "kana": "あててみて",
    "meaning": "guess",
    "pos": "ph."
   },
@@ -2085,6 +2382,7 @@
    "date": "2026-07-07",
    "zh": null,
    "ja": "石",
+   "kana": "いし",
    "meaning": "stone",
    "pos": "n."
   },
@@ -2092,6 +2390,7 @@
    "date": "2026-07-08",
    "zh": null,
    "ja": "ピース",
+   "kana": "ぴーす",
    "meaning": "peace sign",
    "pos": "n."
   },
@@ -2099,6 +2398,7 @@
    "date": "2026-07-08",
    "zh": null,
    "ja": "ひとつ",
+   "kana": "ひとつ",
    "meaning": "one",
    "pos": "num."
   },
@@ -2106,6 +2406,7 @@
    "date": "2026-07-08",
    "zh": null,
    "ja": "キツネ",
+   "kana": "きつね",
    "meaning": "fox",
    "pos": "n."
   },
@@ -2113,6 +2414,7 @@
    "date": "2026-07-08",
    "zh": null,
    "ja": "トマス",
+   "kana": "とます",
    "meaning": "name of a character",
    "pos": "n."
   },
@@ -2120,6 +2422,7 @@
    "date": "2026-07-09",
    "zh": null,
    "ja": "バス",
+   "kana": "ばす",
    "meaning": "bus",
    "pos": "n."
   },
@@ -2127,6 +2430,7 @@
    "date": "2026-07-09",
    "zh": "做",
    "ja": null,
+   "kana": null,
    "meaning": "do",
    "pos": "v."
   },
@@ -2134,6 +2438,7 @@
    "date": "2026-07-09",
    "zh": null,
    "ja": "そと",
+   "kana": "そと",
    "meaning": "outside",
    "pos": "adv."
   },
@@ -2141,6 +2446,7 @@
    "date": "2026-07-09",
    "zh": null,
    "ja": "片付け",
+   "kana": "かたづけ",
    "meaning": "tidying up",
    "pos": "v."
   },
@@ -2148,6 +2454,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "助けて",
+   "kana": "たすけて",
    "meaning": "help",
    "pos": "v."
   },
@@ -2155,6 +2462,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "隠れて",
+   "kana": "かくれて",
    "meaning": "hide",
    "pos": "v."
   },
@@ -2162,6 +2470,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "楽しい",
+   "kana": "たのしい",
    "meaning": "happy",
    "pos": "adj."
   },
@@ -2169,6 +2478,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "行くよ",
+   "kana": "いくよ",
    "meaning": "let's go",
    "pos": "v."
   },
@@ -2176,6 +2486,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "熱い",
+   "kana": "あつい",
    "meaning": "hot",
    "pos": "adj."
   },
@@ -2183,6 +2494,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "お腹すいた",
+   "kana": "おはらすいた",
    "meaning": "hungry",
    "pos": "ph."
   },
@@ -2190,6 +2502,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "あそこ",
+   "kana": "あそこ",
    "meaning": "there",
    "pos": "adv."
   },
@@ -2197,6 +2510,7 @@
    "date": "2026-07-10",
    "zh": null,
    "ja": "皆さん",
+   "kana": "みなさん",
    "meaning": "everyone",
    "pos": "n."
   },
@@ -2204,6 +2518,7 @@
    "date": "2026-07-11",
    "zh": null,
    "ja": "xxしません",
+   "kana": "xxしません",
    "meaning": "don't do sth.",
    "pos": "v."
   },
@@ -2211,6 +2526,7 @@
    "date": "2026-07-11",
    "zh": null,
    "ja": "推して",
+   "kana": "おして",
    "meaning": "push",
    "pos": "v."
   },
@@ -2218,6 +2534,7 @@
    "date": "2026-07-11",
    "zh": null,
    "ja": "アイス",
+   "kana": "あいす",
    "meaning": "ice cream",
    "pos": "n."
   },
@@ -2225,6 +2542,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "ふたつ",
+   "kana": "ふたつ",
    "meaning": "two",
    "pos": "n."
   },
@@ -2232,6 +2550,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "セーフ",
+   "kana": "せーふ",
    "meaning": "safe",
    "pos": "adj."
   },
@@ -2239,6 +2558,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "走る",
+   "kana": "はしる",
    "meaning": "run",
    "pos": "v."
   },
@@ -2246,6 +2566,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "レッツ・ゴー",
+   "kana": "れっつ・ごー",
    "meaning": "let's go",
    "pos": "ph."
   },
@@ -2253,6 +2574,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "おばあちゃん",
+   "kana": "おばあちゃん",
    "meaning": "grandmother",
    "pos": "n."
   },
@@ -2260,6 +2582,7 @@
    "date": "2026-07-12",
    "zh": null,
    "ja": "ネズミ",
+   "kana": "ねずみ",
    "meaning": "mice",
    "pos": "n."
   },
@@ -2267,6 +2590,7 @@
    "date": "2026-07-12",
    "zh": "石头",
    "ja": null,
+   "kana": null,
    "meaning": "stone",
    "pos": "n."
   },
@@ -2274,6 +2598,7 @@
    "date": "2026-07-12",
    "zh": "剪刀",
    "ja": null,
+   "kana": null,
    "meaning": "scissors",
    "pos": "n."
   },
@@ -2281,6 +2606,7 @@
    "date": "2026-07-12",
    "zh": "布",
    "ja": null,
+   "kana": null,
    "meaning": "cloth",
    "pos": "n."
   },
@@ -2288,6 +2614,7 @@
    "date": "2026-07-13",
    "zh": "拉手手",
    "ja": null,
+   "kana": null,
    "meaning": "hold hand",
    "pos": "ph."
   },
@@ -2295,6 +2622,7 @@
    "date": "2026-07-13",
    "zh": "水水",
    "ja": null,
+   "kana": null,
    "meaning": "water",
    "pos": "n."
   },
@@ -2302,6 +2630,7 @@
    "date": "2026-07-13",
    "zh": "吃",
    "ja": null,
+   "kana": null,
    "meaning": "eat",
    "pos": "v."
   },
@@ -2309,6 +2638,7 @@
    "date": "2026-07-13",
    "zh": null,
    "ja": "してる",
+   "kana": "してる",
    "meaning": "doing",
    "pos": "v."
   },
@@ -2316,6 +2646,7 @@
    "date": "2026-07-13",
    "zh": null,
    "ja": "いいよ",
+   "kana": "いいよ",
    "meaning": "it's ok",
    "pos": "ph."
   },
@@ -2323,6 +2654,7 @@
    "date": "2026-07-13",
    "zh": null,
    "ja": "おやすみ",
+   "kana": "おやすみ",
    "meaning": "good night",
    "pos": "ph."
   },
@@ -2330,6 +2662,7 @@
    "date": "2026-07-13",
    "zh": null,
    "ja": "おはよう",
+   "kana": "おはよう",
    "meaning": "good morning",
    "pos": "ph."
   },
@@ -2337,6 +2670,7 @@
    "date": "2026-07-14",
    "zh": null,
    "ja": "クレヨン",
+   "kana": "くれよん",
    "meaning": "crayon",
    "pos": "n."
   },
@@ -2344,6 +2678,7 @@
    "date": "2026-07-14",
    "zh": null,
    "ja": "ハート",
+   "kana": "はーと",
    "meaning": "heart",
    "pos": "n."
   },
@@ -2351,6 +2686,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "登る",
+   "kana": "のぼる",
    "meaning": "climb",
    "pos": "v."
   },
@@ -2358,6 +2694,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "友達",
+   "kana": "ともだち",
    "meaning": "friends",
    "pos": "n."
   },
@@ -2365,6 +2702,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "違う",
+   "kana": "ちがう",
    "meaning": "wrong",
    "pos": "adj."
   },
@@ -2372,6 +2710,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "よ",
+   "kana": "よ",
    "meaning": "exclamation mark",
    "pos": "ptcl."
   },
@@ -2379,6 +2718,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "あと",
+   "kana": "あと",
    "meaning": "after, next",
    "pos": "adv."
   },
@@ -2386,6 +2726,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "そうだよ",
+   "kana": "そうだよ",
    "meaning": "that's right",
    "pos": "ph."
   },
@@ -2393,6 +2734,7 @@
    "date": "2026-07-16",
    "zh": null,
    "ja": "こう",
+   "kana": "こう",
    "meaning": "like this",
    "pos": "ph."
   },
@@ -2400,6 +2742,7 @@
    "date": "2026-07-17",
    "zh": null,
    "ja": "出た",
+   "kana": "でた",
    "meaning": "(piss) out",
    "pos": "v."
   },
@@ -2407,6 +2750,7 @@
    "date": "2026-07-17",
    "zh": null,
    "ja": "集まれ",
+   "kana": "あつまれ",
    "meaning": "gather",
    "pos": "v."
   },
@@ -2414,6 +2758,7 @@
    "date": "2026-07-17",
    "zh": null,
    "ja": "おひさま",
+   "kana": "おひさま",
    "meaning": "sun",
    "pos": "n."
   },
@@ -2421,6 +2766,7 @@
    "date": "2026-07-18",
    "zh": null,
    "ja": "帽子",
+   "kana": "ぼうし",
    "meaning": "hat, cap",
    "pos": "n."
   },
@@ -2428,6 +2774,7 @@
    "date": "2026-07-19",
    "zh": null,
    "ja": "水遊び",
+   "kana": "みずあそび",
    "meaning": "water play",
    "pos": "n."
   },
@@ -2435,6 +2782,7 @@
    "date": "2026-07-19",
    "zh": null,
    "ja": "になった",
+   "kana": "になった",
    "meaning": "became",
    "pos": "ph."
   },
@@ -2442,6 +2790,7 @@
    "date": "2026-07-20",
    "zh": null,
    "ja": "タヌキ",
+   "kana": "たぬき",
    "meaning": "raccoon dog",
    "pos": "n."
   },
@@ -2449,6 +2798,7 @@
    "date": "2026-07-20",
    "zh": "叔叔",
    "ja": null,
+   "kana": null,
    "meaning": "uncle",
    "pos": "n."
   },
@@ -2456,6 +2806,7 @@
    "date": "2026-07-20",
    "zh": "阿姨",
    "ja": null,
+   "kana": null,
    "meaning": "aunt",
    "pos": "n."
   },
@@ -2463,6 +2814,7 @@
    "date": "2026-07-20",
    "zh": null,
    "ja": "スプーン",
+   "kana": "すぷーん",
    "meaning": "spoon",
    "pos": "n."
   },
@@ -2470,6 +2822,7 @@
    "date": "2026-07-22",
    "zh": "绿豆",
    "ja": null,
+   "kana": null,
    "meaning": "green been",
    "pos": "n."
   },
@@ -2477,6 +2830,7 @@
    "date": "2026-07-22",
    "zh": null,
    "ja": "ナス",
+   "kana": "なす",
    "meaning": "eggplant",
    "pos": "n."
   },
@@ -2484,6 +2838,7 @@
    "date": "2026-07-22",
    "zh": null,
    "ja": "できた",
+   "kana": "できた",
    "meaning": "done",
    "pos": "v."
   },
@@ -2491,6 +2846,7 @@
    "date": "2026-07-22",
    "zh": null,
    "ja": "ひとり",
+   "kana": "ひとり",
    "meaning": "one person",
    "pos": "n."
   },
@@ -2498,6 +2854,7 @@
    "date": "2026-07-23",
    "zh": "衣服",
    "ja": null,
+   "kana": null,
    "meaning": "cloth",
    "pos": "n."
   },
@@ -2505,6 +2862,7 @@
    "date": "2026-07-23",
    "zh": "脏脏",
    "ja": null,
+   "kana": null,
    "meaning": "dirty",
    "pos": "adj."
   },
@@ -2512,6 +2870,7 @@
    "date": "2026-07-23",
    "zh": null,
    "ja": "あげる",
+   "kana": "あげる",
    "meaning": "give",
    "pos": "v."
   },
@@ -2519,6 +2878,7 @@
    "date": "2026-07-24",
    "zh": null,
    "ja": "悲しい",
+   "kana": "かなしい",
    "meaning": "sad",
    "pos": "adj."
   },
@@ -2526,6 +2886,7 @@
    "date": "2026-07-25",
    "zh": null,
    "ja": "ペコペコ",
+   "kana": "ぺこぺこ",
    "meaning": "hungry",
    "pos": "adj."
   },
@@ -2533,6 +2894,7 @@
    "date": "2026-07-25",
    "zh": null,
    "ja": "メガネ",
+   "kana": "めがね",
    "meaning": "glass",
    "pos": "n."
   },
@@ -2540,6 +2902,7 @@
    "date": "2026-07-27",
    "zh": null,
    "ja": "です",
+   "kana": "です",
    "meaning": "be",
    "pos": "v."
   },
@@ -2547,6 +2910,7 @@
    "date": "2026-07-27",
    "zh": null,
    "ja": "絵本",
+   "kana": "えほん",
    "meaning": "picture book",
    "pos": "n."
   },
@@ -2554,6 +2918,7 @@
    "date": "2026-07-28",
    "zh": null,
    "ja": "オムツ",
+   "kana": "おむつ",
    "meaning": "diaper",
    "pos": "n."
   },
@@ -2561,6 +2926,7 @@
    "date": "2026-07-29",
    "zh": null,
    "ja": "牛乳",
+   "kana": "ぎゅうにゅう",
    "meaning": "milk",
    "pos": "n."
   },
@@ -2568,6 +2934,7 @@
    "date": "2026-07-29",
    "zh": null,
    "ja": "できない",
+   "kana": "できない",
    "meaning": "can't do",
    "pos": "v."
   },
@@ -2575,6 +2942,7 @@
    "date": "2026-07-30",
    "zh": "不能",
    "ja": null,
+   "kana": null,
    "meaning": "can't do",
    "pos": "v."
   },
@@ -2582,6 +2950,7 @@
    "date": "2026-07-30",
    "zh": null,
    "ja": "あのう",
+   "kana": "あのう",
    "meaning": "well",
    "pos": "ptcl."
   },
@@ -2589,6 +2958,7 @@
    "date": "2026-07-30",
    "zh": "看",
    "ja": null,
+   "kana": null,
    "meaning": "look",
    "pos": "v."
   },
@@ -2596,6 +2966,7 @@
    "date": "2026-08-01",
    "zh": null,
    "ja": "でも",
+   "kana": "でも",
    "meaning": "but",
    "pos": "conj."
   },
@@ -2603,6 +2974,7 @@
    "date": "2026-08-01",
    "zh": null,
    "ja": "見つけた",
+   "kana": "みつけた",
    "meaning": "found it",
    "pos": "v."
   },
@@ -2610,6 +2982,7 @@
    "date": "2026-08-02",
    "zh": null,
    "ja": "パインアップル",
+   "kana": "ぱいんあっぷる",
    "meaning": "pineapple",
    "pos": "n."
   },
@@ -2617,6 +2990,7 @@
    "date": "2026-08-03",
    "zh": "进去",
    "ja": null,
+   "kana": null,
    "meaning": "get in",
    "pos": "v."
   },
@@ -2624,6 +2998,7 @@
    "date": "2026-08-03",
    "zh": null,
    "ja": "読んで",
+   "kana": "よんで",
    "meaning": "read",
    "pos": "v."
   },
@@ -2631,6 +3006,7 @@
    "date": "2026-08-03",
    "zh": null,
    "ja": "たい",
+   "kana": "たい",
    "meaning": "want",
    "pos": "adj."
   },
@@ -2638,6 +3014,7 @@
    "date": "2026-08-04",
    "zh": null,
    "ja": "もう一個",
+   "kana": "もういっこ",
    "meaning": "one more",
    "pos": "ph."
   },
@@ -2645,6 +3022,7 @@
    "date": "2026-08-04",
    "zh": null,
    "ja": "一枚",
+   "kana": "いちまい",
    "meaning": "one piece",
    "pos": "quan."
   },
@@ -2652,6 +3030,7 @@
    "date": "2026-08-04",
    "zh": null,
    "ja": "美味しくなれ",
+   "kana": "おいしくなれ",
    "meaning": "become juicy",
    "pos": "ph."
   },
@@ -2659,6 +3038,7 @@
    "date": "2026-08-04",
    "zh": null,
    "ja": "頑張れ",
+   "kana": "がんばれ",
    "meaning": "cheer up",
    "pos": "v."
   },
@@ -2666,6 +3046,7 @@
    "date": "2026-08-04",
    "zh": null,
    "ja": "行きます",
+   "kana": "いきます",
    "meaning": "go",
    "pos": "v."
   },
@@ -2673,6 +3054,7 @@
    "date": "2026-08-05",
    "zh": null,
    "ja": "おはようございます",
+   "kana": "おはようございます",
    "meaning": "good morning",
    "pos": "v."
   }

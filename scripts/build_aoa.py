@@ -7,15 +7,29 @@
     默认读取 /Users/SalvadorX/Desktop/RSVK-WXY.xlsx
 
 数据更新流程: 改完 Excel 后跑一次本脚本，然后 git add data/aoa.json && commit && push。
-依赖: pip install openpyxl
+依赖: pip install openpyxl pykakasi
 """
 
 import json
+import re
 import sys
 from datetime import date, datetime
 from pathlib import Path
 
 import openpyxl
+
+try:
+    import pykakasi
+    _kks = pykakasi.kakasi()
+    def to_kana(s):
+        """日语词 -> 平假名读音（用于前端汉字/假名双向搜索匹配）。"""
+        return "".join(x["hira"] for x in _kks.convert(s))
+except ImportError:
+    print("警告: 未安装 pykakasi，日语假名读音字段将缺失", file=sys.stderr)
+    def to_kana(s):
+        return None
+
+PAREN_RE = re.compile(r"[（(]([^）)]*)[）)]")
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_XLSX = "/Users/SalvadorX/Desktop/RSVK-WXY.xlsx"
@@ -38,10 +52,16 @@ def main():
             d = d.date()
         if not zh and not ja:
             continue
+        ja_s = str(ja).strip() if ja else None
+        kana = None
+        if ja_s:
+            main = PAREN_RE.sub("", ja_s).strip()  # 去掉括号注音后的主形式
+            kana = to_kana(main) if main else None
         words.append({
             "date": d.isoformat(),
             "zh": str(zh).strip() if zh else None,
-            "ja": str(ja).strip() if ja else None,
+            "ja": ja_s,
+            "kana": kana,
             "meaning": str(meaning).strip() if meaning else "",
             "pos": str(pos).strip() if pos else "",
         })

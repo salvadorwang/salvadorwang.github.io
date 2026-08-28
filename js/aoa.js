@@ -19,9 +19,11 @@ let series = { zh: [], ja: [] };  // 每语言: [{ageM, count, date, words:[...]
 fetch('data/aoa.json').then((r) => r.json()).then((data) => {
   birthday = new Date(data.birthday + 'T00:00:00');
   buildSeries(data.words);
+  buildSearchIndex();
   renderLegend();
   renderChart();
   renderTable(data.words);
+  initSearch();
 }).catch((e) => {
   document.getElementById('aoa-chart').outerHTML =
     '<p>Failed to load data/aoa.json.</p>';
@@ -51,6 +53,115 @@ function buildSeries(words) {
       return { date: d, ageM: ageMonths(d), count: total, words: ws };
     });
   }
+}
+
+/* ---------- 搜索 ---------- */
+const candIndex = new Map();   // 归一化词形 -> {key, point, word}
+let kanjiDict = null;          // 汉字 -> 读音干列表（懒加载）
+const PAREN_RE = /[（(][^）)]*[）)]/g;
+const HAS_KANJI = /[㐀-鿿豈-舘]/;
+
+// 归一化：去空格、小写、片假名转平假名
+function norm(s) {
+  return s.trim().toLowerCase().replace(/\s+/g, '')
+    .replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60));
+}
+// 促音同化：がくこう -> がっこう
+function assimilate(s) {
+  return s.replace(/[くちつ](?=[かきくけこさしすせそたちつてとぱぴぷぺぽ])/g, 'っ');
+}
+
+function addCand(form, entry) {
+  if (!form) return;
+  const n = norm(form);
+  if (n && !candIndex.has(n)) candIndex.set(n, entry);
+}
+
+function buildSearchIndex() {
+  for (const key of ['zh', 'ja']) {
+    for (const point of series[key]) {
+      for (const w of point.words) {
+        const entry = { key, point, word: w };
+        const raw = w[key];
+        addCand(raw, entry);                              // 原始完整形式
+        addCand(raw.replace(PAREN_RE, ''), entry);        // 去括号主形式
+        const inner = [...raw.matchAll(/[（(]([^）)]*)[）)]/g)];
+        for (const m of inner) addCand(m[1], entry);      // 括号内注音形式
+        if (key === 'ja' && w.kana) addCand(w.kana, entry);  // 假名读音
+      }
+    }
+  }
+}
+
+function lookup(q) {
+  return candIndex.get(q) || candIndex.get(assimilate(q)) || null;
+}
+
+// 汉字查询 -> 按读音干组合展开成假名候选
+function expandKanji(q) {
+  let results = [''];
+  for (const ch of q) {
+    const opts = HAS_KANJI.test(ch) ? (kanjiDict[ch] || [ch]) : [ch];
+    const next = [];
+    for (const r of results) {
+      for (const o of opts) {
+        next.push(r + o);
+        if (next.length > 4000) return next;
+      }
+    }
+    results = next;
+  }
+  return results;
+}
+
+async function doSearch() {
+  const input = document.getElementById('aoa-search');
+  const q = norm(input.value.replace(PAREN_RE, ''));
+  if (!q) return;
+
+  let hit = lookup(q);
+  if (!hit && HAS_KANJI.test(q)) {
+    if (!kanjiDict) {
+      try { kanjiDict = await (await fetch('data/kanji_readings.json')).json(); }
+      catch (e) { kanjiDict = {}; }
+    }
+    for (const cand of expandKanji(q)) {
+      hit = lookup(cand);
+      if (hit) break;
+    }
+  }
+
+  const box = document.getElementById('aoa-detail');
+  if (hit) {
+    showDetail(hit.key, hit.point, hit.word);
+    highlightPoint(hit.key, hit.point);
+  } else {
+    clearHighlight();
+    box.innerHTML = `<p class="aoa-miss">She can't speak this word yet.</p>`;
+    box.classList.remove('hidden');
+  }
+}
+
+function initSearch() {
+  document.getElementById('aoa-search-btn').addEventListener('click', doSearch);
+  document.getElementById('aoa-search').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') doSearch();
+  });
+}
+
+/* ---------- 高亮 ---------- */
+let highlightEl = null;
+function highlightPoint(key, p) {
+  clearHighlight();
+  const svg = document.getElementById('aoa-chart');
+  highlightEl = el('circle', {
+    cx: sx(p.ageM), cy: sy(p.count), r: 8, fill: 'none',
+    stroke: '#002fa7', 'stroke-width': 2.5
+  });
+  svg.appendChild(highlightEl);
+}
+function clearHighlight() {
+  if (highlightEl) { highlightEl.remove(); highlightEl = null; }
 }
 
 /* ---------- 图表 ---------- */
@@ -137,11 +248,12 @@ function hideTooltip() {
 }
 
 /* ---------- 点击详情 ---------- */
-function showDetail(key, p) {
+function showDetail(key, p, hlWord) {
   const s = SERIES[key];
   const box = document.getElementById('aoa-detail');
   const items = p.words.map((w) =>
-    `<li><b>${w[key]}</b><span class="meaning">${w.meaning || ''}</span>` +
+    `<li${w === hlWord ? ' class="hl"' : ''}><b>${w[key]}</b>` +
+    `<span class="meaning">${w.meaning || ''}</span>` +
     `<span class="pos">${POS_EN[w.pos] || w.pos || '—'}</span></li>`).join('');
   box.innerHTML =
     `<div class="detail-head" style="border-color:${s.color}">` +

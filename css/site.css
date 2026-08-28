@@ -107,7 +107,23 @@ table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-nu
 /* ---------- AOA 词汇增长页 ---------- */
 .aoa-grid { display: flex; gap: 0; align-items: stretch; border: 1px solid #111; }
 .aoa-chart-panel { flex: 1; min-width: 0; padding: 18px 20px 20px; }
-.aoa-legend { display: flex; gap: 22px; margin-bottom: 8px; font-size: 13px; font-weight: 500; }
+.aoa-topbar { display: flex; align-items: center; justify-content: space-between;
+  gap: 16px; margin-bottom: 10px; flex-wrap: wrap; }
+.aoa-legend { display: flex; gap: 22px; font-size: 13px; font-weight: 500; }
+.aoa-search-box { display: flex; }
+#aoa-search {
+  border: 1px solid #111; border-right: 0; padding: 7px 12px;
+  font: inherit; font-size: 13px; width: 240px; background: #fff; color: #111;
+}
+#aoa-search:focus { outline: 2px solid #002fa7; outline-offset: -1px; }
+#aoa-search-btn {
+  border: 1px solid #111; background: #111; color: #fff; cursor: pointer;
+  font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+  padding: 0 16px;
+}
+#aoa-search-btn:hover { background: #002fa7; border-color: #002fa7; }
+.aoa-miss { font-size: 15px; color: #555; font-style: italic; margin: 4px 0; }
+#aoa-detail li.hl { background: #eef1fb; outline: 1px solid #002fa7; padding-left: 6px; }
 .lg { display: inline-flex; align-items: center; gap: 7px; }
 .sw { width: 10px; height: 10px; display: inline-block; }
 .sw.circle { border-radius: 50%; }
