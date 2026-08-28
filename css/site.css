@@ -1,92 +1,123 @@
-/* 全站共享样式：仿 academicpages 风格 */
-* { box-sizing: border-box; }
+/* ============================================================
+ * Swiss Studio 主题：瑞士网格、细线分栏、超大字重、克莱因蓝 #002fa7
+ * ============================================================ */
+* { box-sizing: border-box; margin: 0; }
 html, body {
-  margin: 0; min-height: 100vh;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-               "Helvetica Neue", "PingFang SC", "Hiragino Sans", sans-serif;
-  color: #494e52; background: #fff;
+  font-family: "Archivo", "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans", sans-serif;
+  background: #ffffff; color: #111111;
   font-size: 16px; line-height: 1.6;
 }
-a { color: #52adc8; text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: #111; text-decoration: none; }
+a:hover { color: #002fa7; }
 
 /* ---------- 顶部导航 ---------- */
 #masthead {
-  border-bottom: 1px solid #f2f3f3;
-  background: #fff;
+  border-bottom: 1px solid #111; background: #fff;
   position: sticky; top: 0; z-index: 100;
 }
 .masthead-inner {
-  max-width: 1280px; margin: 0 auto; padding: 0 24px;
-  display: flex; align-items: center; gap: 32px;
-  min-height: 56px; flex-wrap: wrap;
+  max-width: 1100px; margin: 0 auto; padding: 0 0 0 24px;
+  height: 58px; display: flex; align-items: center;
 }
 .site-title {
-  font-size: 18px; font-weight: 700; color: #393e46;
+  font-weight: 900; font-size: 16px; letter-spacing: -.01em;
+  text-transform: uppercase; margin-right: auto;
 }
-.site-title:hover { text-decoration: none; color: #52adc8; }
-.site-nav { display: flex; gap: 4px; flex-wrap: wrap; }
+.site-nav { display: flex; height: 58px; }
 .site-nav a {
-  color: #494e52; padding: 16px 12px; font-size: 15px;
+  font-size: 13px; font-weight: 500; text-transform: uppercase; letter-spacing: .1em;
+  padding: 0 18px; display: flex; align-items: center;
+  border-left: 1px solid #e6e6e6; color: #111;
 }
-.site-nav a:hover { text-decoration: none; color: #52adc8; }
-.site-nav a.active {
-  font-weight: 700; color: #393e46;
-  box-shadow: inset 0 -3px 0 #52adc8;
-}
+.site-nav a:hover { background: #002fa7; color: #fff; }
+.site-nav a.active { background: #002fa7; color: #fff; }
 
 /* ---------- 主体两栏 ---------- */
 .page {
-  max-width: 1280px; margin: 0 auto; padding: 24px;
-  display: flex; gap: 40px; align-items: flex-start;
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: stretch;
+  border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6;
+  min-height: calc(100vh - 59px);
 }
 #sidebar {
-  flex: 0 0 210px; position: sticky; top: 80px;
-  font-size: 14px; color: #6f777d;
+  flex: 0 0 300px; border-right: 1px solid #e6e6e6; padding: 40px 28px;
 }
+.sidebar-sticky { position: sticky; top: 98px; }
 .avatar {
-  width: 150px; height: 150px; border-radius: 50%;
-  object-fit: cover; display: block; background: #f2f3f3;
+  width: 110px; height: 110px; object-fit: cover;
+  background: #002fa7; display: block;
 }
-.author-name { margin: 14px 0 4px; font-size: 18px; color: #393e46; }
-.author-bio { margin: 0 0 12px; font-size: 14px; }
-.author-links { list-style: none; margin: 0; padding: 0; }
-.author-links li { margin: 6px 0; }
-.author-links a { color: #494e52; }
-.author-links a:hover { color: #52adc8; }
-.li-icon { display: inline-block; width: 22px; }
+.avatar-initials {
+  width: 110px; height: 110px; background: #002fa7; color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 36px; font-weight: 900;
+}
+.author-name { margin: 20px 0 2px; font-size: 20px; font-weight: 700; letter-spacing: -.01em; }
+.author-bio { color: #555; font-size: 14px; margin-bottom: 8px; }
+.side-label {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .14em; color: #999; margin: 18px 0 4px;
+}
+.author-links { list-style: none; margin: 0; padding: 0; font-size: 14px; }
+.author-links li { padding: 6px 0; border-top: 1px solid #e6e6e6; }
+.author-links a:hover { color: #002fa7; }
 
-main.content { flex: 1; min-width: 0; }
-main.content h1 { margin-top: 0; font-size: 28px; color: #393e46; }
+/* ---------- 内容区 ---------- */
+main.content { flex: 1; min-width: 0; padding: 40px 36px 80px; }
+.eyebrow {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .14em; color: #002fa7; margin-bottom: 14px;
+}
+main.content h1 {
+  font-size: 52px; font-weight: 900; line-height: 1.0;
+  letter-spacing: -.03em; text-transform: uppercase;
+  text-wrap: balance; margin-bottom: 24px;
+}
 main.content h2 {
-  font-size: 22px; color: #393e46;
-  border-bottom: 1px solid #f2f3f3; padding-bottom: 6px;
+  font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .14em;
+  border-top: 1px solid #111; padding-top: 18px; margin: 42px 0 18px;
+}
+main.content p { max-width: 38em; }
+main.content ul, main.content ol { padding-left: 20px; }
+main.content li { margin: 6px 0; }
+code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 14px; background: #f4f4f4; padding: 1px 5px;
 }
 
-/* 通用表格（CV 等） */
-table.cv {
-  width: 100%; border-collapse: collapse; font-size: 15px;
-}
+/* CV 表格 */
+table.cv { width: 100%; border-collapse: collapse; font-size: 15px; }
 table.cv th, table.cv td {
-  border: 1px solid #f2f3f3; padding: 8px 12px; text-align: left;
-  vertical-align: top;
+  border: 0; border-top: 1px solid #e6e6e6;
+  padding: 10px 16px 10px 0; text-align: left; vertical-align: top;
 }
-table.cv th { background: #fafafa; }
+table.cv th {
+  font-size: 11px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .12em; color: #999; border-top: 0;
+}
+table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-numeric: tabular-nums; }
 
-/* 照片页 iframe 占满内容区 */
+/* 照片页 iframe */
 .map-frame {
-  width: 100%; height: calc(100vh - 140px); min-height: 480px;
-  border: 1px solid #f2f3f3; border-radius: 6px;
+  width: 100%; height: calc(100vh - 210px); min-height: 480px;
+  border: 1px solid #111; display: block;
 }
 
-/* ---------- 移动端：侧栏收到顶部 ---------- */
+/* ---------- 移动端 ---------- */
 @media (max-width: 767px) {
-  .page { flex-direction: column; gap: 16px; }
+  .masthead-inner { padding-left: 16px; overflow-x: auto; }
+  .site-title { margin-right: 16px; }
+  .page { flex-direction: column; border: 0; min-height: 0; }
   #sidebar {
-    position: static; flex: none; width: 100%;
-    display: grid; grid-template-columns: 90px 1fr; column-gap: 16px;
-    align-items: center;
+    flex: none; width: 100%; border-right: 0; border-bottom: 1px solid #111;
+    padding: 24px 20px;
   }
-  .avatar { width: 90px; height: 90px; grid-row: 1 / span 3; }
-  .author-links { grid-column: 2; }
+  .sidebar-sticky {
+    position: static;
+    display: grid; grid-template-columns: 90px 1fr; column-gap: 18px;
+    align-items: start;
+  }
+  .avatar, .avatar-initials { width: 90px; height: 90px; font-size: 28px; grid-row: 1 / span 6; }
+  main.content { padding: 28px 20px 60px; }
+  main.content h1 { font-size: 36px; }
 }

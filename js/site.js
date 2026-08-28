@@ -23,16 +23,6 @@ const SITE = {
   ]
 };
 
-const ICONS = {
-  email:   "✉️",
-  github:  "🐙",
-  scholar: "🎓",
-  orcid:   "🆔",
-  twitter: "🐦",
-  link:    "🔗",
-  location:"📍"
-};
-
 (function renderLayout() {
   const page = document.body.dataset.page || "";
   // 子目录页面（如有）可在 body 上设 data-root="../" 修正相对路径
@@ -51,19 +41,25 @@ const ICONS = {
     </div>`;
 
   const linksHtml = SITE.links.map((l) =>
-    `<li><a href="${l.url}" target="_blank" rel="noopener">
-       <span class="li-icon">${ICONS[l.icon] || ICONS.link}</span>${l.label}</a></li>`
+    `<li><a href="${l.url}" target="_blank" rel="noopener">${l.label} ↗</a></li>`
   ).join("");
+
+  // 头像：配置的是 svg 占位图时显示蓝底姓名首字母色块，更贴合主题
+  const avatarHtml = SITE.avatar.endsWith(".svg")
+    ? `<div class="avatar-initials">${SITE.name.split(/\s+/).map(w => w[0]).join("").toUpperCase()}</div>`
+    : `<img class="avatar" src="${root}${SITE.avatar}" alt="${SITE.name}">`;
 
   const sidebar = document.getElementById("sidebar");
   if (sidebar) {
     sidebar.innerHTML = `
-      <img class="avatar" src="${root}${SITE.avatar}" alt="${SITE.name}">
-      <h2 class="author-name">${SITE.name}</h2>
-      <p class="author-bio">${SITE.bio}</p>
-      <ul class="author-links">
-        <li><span class="li-icon">${ICONS.location}</span>${SITE.location}</li>
-        ${linksHtml}
-      </ul>`;
+      <div class="sidebar-sticky">
+        ${avatarHtml}
+        <h2 class="author-name">${SITE.name}</h2>
+        <p class="author-bio">${SITE.bio}</p>
+        <p class="side-label">Based in</p>
+        <ul class="author-links"><li>${SITE.location}</li></ul>
+        <p class="side-label">Contact</p>
+        <ul class="author-links">${linksHtml}</ul>
+      </div>`;
   }
 })();
