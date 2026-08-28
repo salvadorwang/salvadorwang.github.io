@@ -143,19 +143,6 @@ table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-nu
 #aoa-detail .pos { font-size: 10px; font-weight: 700; letter-spacing: .08em;
   text-transform: uppercase; color: #002fa7; white-space: nowrap; }
 
-.aoa-stats { flex: 0 0 250px; border-left: 1px solid #111; padding: 18px 20px; }
-.tot-row { display: flex; align-items: center; gap: 8px; font-size: 14px;
-  padding: 6px 0; border-top: 1px solid #ececec; }
-.tot-row:first-of-type { border-top: 0; }
-.tot-row b { margin-left: auto; font-size: 16px; font-variant-numeric: tabular-nums; }
-.tot-row.total { font-weight: 700; }
-.pos-row { display: grid; grid-template-columns: 82px 1fr 30px; gap: 8px;
-  align-items: center; font-size: 12px; padding: 3px 0; }
-.pos-name { color: #555; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.pos-bar { height: 8px; background: #f0f0f0; }
-.pos-bar i { display: block; height: 100%; }
-.pos-num { text-align: right; color: #111; font-variant-numeric: tabular-nums; }
-
 .aoa-table { margin-top: 28px; }
 .aoa-table summary {
   cursor: pointer; font-size: 13px; font-weight: 700;
@@ -163,11 +150,6 @@ table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-nu
   border-top: 1px solid #111; padding-top: 16px;
 }
 .aoa-table-wrap { overflow-x: auto; margin-top: 12px; max-height: 420px; overflow-y: auto; }
-
-@media (max-width: 900px) {
-  .aoa-grid { flex-direction: column; }
-  .aoa-stats { border-left: 0; border-top: 1px solid #111; }
-}
 
 /* ---------- 移动端 ---------- */
 @media (max-width: 767px) {

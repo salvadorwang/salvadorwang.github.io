@@ -21,7 +21,6 @@ fetch('data/aoa.json').then((r) => r.json()).then((data) => {
   buildSeries(data.words);
   renderLegend();
   renderChart();
-  renderStats(data.words);
   renderTable(data.words);
 }).catch((e) => {
   document.getElementById('aoa-chart').outerHTML =
@@ -162,34 +161,6 @@ function renderLegend() {
     Object.values(SERIES).map((s) =>
       `<span class="lg"><span class="sw ${s.marker}" style="background:${s.color}"></span>${s.name}</span>`
     ).join('');
-}
-
-function renderStats(words) {
-  const box = document.getElementById('aoa-stats');
-  const totZh = series.zh.at(-1).count, totJa = series.ja.at(-1).count;
-  const pos = { zh: {}, ja: {} };
-  for (const w of words) {
-    for (const key of ['zh', 'ja']) {
-      if (!w[key]) continue;
-      const p = w.pos || '—';
-      pos[key][p] = (pos[key][p] || 0) + 1;
-    }
-  }
-  const bars = (key) => {
-    const entries = Object.entries(pos[key]).sort((a, b) => b[1] - a[1]);
-    const max = entries[0][1];
-    return entries.map(([p, n]) =>
-      `<div class="pos-row"><span class="pos-name">${POS_EN[p] || p}</span>` +
-      `<span class="pos-bar"><i style="width:${(n / max) * 100}%;background:${SERIES[key].color}"></i></span>` +
-      `<span class="pos-num">${n}</span></div>`).join('');
-  };
-  box.innerHTML =
-    `<p class="side-label">Total</p>
-     <div class="tot-row"><span class="sw circle" style="background:${SERIES.zh.color}"></span>Chinese<b>${totZh}</b></div>
-     <div class="tot-row"><span class="sw square" style="background:${SERIES.ja.color}"></span>Japanese<b>${totJa}</b></div>
-     <div class="tot-row total">Total<b>${totZh + totJa}</b></div>
-     <p class="side-label">Chinese PoS</p>${bars('zh')}
-     <p class="side-label">Japanese PoS</p>${bars('ja')}`;
 }
 
 function renderTable(words) {
