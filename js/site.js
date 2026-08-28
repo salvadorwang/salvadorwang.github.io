@@ -19,6 +19,7 @@ const SITE = {
     { title: "About",        href: "index.html" },
     { title: "CV",           href: "cv.html" },
     { title: "Publications", href: "publications.html" },
+    { title: "AOA",          href: "aoa.html" },
     { title: "Photos",       href: "photos.html" }
   ]
 };

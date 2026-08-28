@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AOA - Xiongfei Wang</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;900&display=swap">
+  <link rel="stylesheet" href="css/site.css?v=3">
+</head>
+<body data-page="aoa.html">
+  <header id="masthead"></header>
+  <div class="page">
+    <aside id="sidebar"></aside>
+    <main class="content">
+      <p class="eyebrow">Age of Acquisition</p>
+      <h1>AOA</h1>
+      <p>Spoken vocabulary growth of Wang Xiyu (born 2024-03-16), tracked word by word
+         in Chinese and Japanese. Hover the lines for totals at any point;
+         click a point to see which words were acquired that day.</p>
+
+      <div class="aoa-grid">
+        <div class="aoa-chart-panel">
+          <div class="aoa-legend" id="aoa-legend"></div>
+          <div class="aoa-chart-wrap">
+            <svg id="aoa-chart" role="img" aria-label="Vocabulary growth line chart"></svg>
+            <div id="aoa-tooltip" class="hidden"></div>
+          </div>
+          <div id="aoa-detail" class="hidden"></div>
+        </div>
+
+        <aside class="aoa-stats" id="aoa-stats"></aside>
+      </div>
+
+      <details class="aoa-table">
+        <summary>Data table</summary>
+        <div class="aoa-table-wrap" id="aoa-table"></div>
+      </details>
+    </main>
+  </div>
+  <script src="js/site.js?v=2"></script>
+  <script src="js/aoa.js?v=1"></script>
+</body>
+</html>

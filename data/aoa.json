@@ -1,0 +1,2680 @@
+{
+ "birthday": "2024-03-16",
+ "updated": "2026-08-28",
+ "words": [
+  {
+   "date": "2024-06-10",
+   "zh": "妈妈",
+   "ja": null,
+   "meaning": "mama",
+   "pos": "n."
+  },
+  {
+   "date": "2024-07-31",
+   "zh": "嗯",
+   "ja": null,
+   "meaning": "yes, positive",
+   "pos": "interj."
+  },
+  {
+   "date": "2025-01-15",
+   "zh": "爸爸",
+   "ja": null,
+   "meaning": "papa",
+   "pos": "n."
+  },
+  {
+   "date": "2025-05-20",
+   "zh": "不(要)（mia/muya）",
+   "ja": null,
+   "meaning": "no, negative",
+   "pos": "interj."
+  },
+  {
+   "date": "2025-05-20",
+   "zh": "姐姐（giegie）",
+   "ja": null,
+   "meaning": "older sister",
+   "pos": "n."
+  },
+  {
+   "date": "2025-05-30",
+   "zh": "赳赳",
+   "ja": null,
+   "meaning": "name of the reading pen",
+   "pos": "pron."
+  },
+  {
+   "date": "2025-06-18",
+   "zh": "骑骑",
+   "ja": null,
+   "meaning": "name of a pillow",
+   "pos": "pron."
+  },
+  {
+   "date": "2025-06-27",
+   "zh": "没",
+   "ja": null,
+   "meaning": "finish, no more",
+   "pos": "adv."
+  },
+  {
+   "date": "2025-07-26",
+   "zh": "奶奶（nāināi）",
+   "ja": null,
+   "meaning": "grandma (fatherside)",
+   "pos": "n."
+  },
+  {
+   "date": "2025-08-05",
+   "zh": "奶奶（nāināi）",
+   "ja": null,
+   "meaning": "milk",
+   "pos": "n."
+  },
+  {
+   "date": "2025-08-10",
+   "zh": null,
+   "ja": "カーカー（aa）",
+   "meaning": "sound of crow",
+   "pos": "n."
+  },
+  {
+   "date": "2025-09-18",
+   "zh": null,
+   "ja": "パパ",
+   "meaning": "papa",
+   "pos": "n."
+  },
+  {
+   "date": "2025-09-18",
+   "zh": "蛋蛋",
+   "ja": null,
+   "meaning": "egg",
+   "pos": "n."
+  },
+  {
+   "date": "2025-09-23",
+   "zh": "拜拜",
+   "ja": "バイバイ",
+   "meaning": "bye",
+   "pos": "interj."
+  },
+  {
+   "date": "2025-09-24",
+   "zh": "饼饼（bǐnbin）",
+   "ja": null,
+   "meaning": "cookie",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-02",
+   "zh": "球球（ququ）",
+   "ja": null,
+   "meaning": "ball",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-05",
+   "zh": null,
+   "ja": "アンパンマン（マンマン）",
+   "meaning": "name of a character",
+   "pos": "pron."
+  },
+  {
+   "date": "2025-10-10",
+   "zh": "袜袜",
+   "ja": null,
+   "meaning": "socks",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-15",
+   "zh": null,
+   "ja": "ブーブー",
+   "meaning": "car",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-17",
+   "zh": "帽帽",
+   "ja": null,
+   "meaning": "hat",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-19",
+   "zh": "宝宝",
+   "ja": null,
+   "meaning": "baby",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-25",
+   "zh": "走 (dou)",
+   "ja": null,
+   "meaning": "go",
+   "pos": "v."
+  },
+  {
+   "date": "2025-10-28",
+   "zh": null,
+   "ja": "先生（seisei）",
+   "meaning": "teacher",
+   "pos": "n."
+  },
+  {
+   "date": "2025-10-31",
+   "zh": "姥姥 (raorao)",
+   "ja": null,
+   "meaning": "grandma (motherside)",
+   "pos": "n."
+  },
+  {
+   "date": "2025-11-03",
+   "zh": "坐",
+   "ja": null,
+   "meaning": "sit",
+   "pos": "v."
+  },
+  {
+   "date": "2025-11-15",
+   "zh": null,
+   "ja": "カード（ビビー）",
+   "meaning": "card",
+   "pos": "n."
+  },
+  {
+   "date": "2025-11-20",
+   "zh": "面面(menmen)",
+   "ja": "めんめん",
+   "meaning": "noodle",
+   "pos": "n."
+  },
+  {
+   "date": "2025-11-25",
+   "zh": "喂",
+   "ja": null,
+   "meaning": "feed",
+   "pos": "v."
+  },
+  {
+   "date": "2025-11-30",
+   "zh": "笔笔",
+   "ja": null,
+   "meaning": "pen",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-04",
+   "zh": null,
+   "ja": "痛い（だいだい）",
+   "meaning": "hurt",
+   "pos": "adj."
+  },
+  {
+   "date": "2025-12-07",
+   "zh": null,
+   "ja": "あっち",
+   "meaning": "there",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-11",
+   "zh": "么么哒",
+   "ja": null,
+   "meaning": "kiss",
+   "pos": "v."
+  },
+  {
+   "date": "2025-12-12",
+   "zh": "雪",
+   "ja": null,
+   "meaning": "snow",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-14",
+   "zh": "尿尿 (naonao)",
+   "ja": null,
+   "meaning": "piss",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-15",
+   "zh": "谢谢",
+   "ja": null,
+   "meaning": "Thanks",
+   "pos": "interj."
+  },
+  {
+   "date": "2025-12-16",
+   "zh": null,
+   "ja": "ハイタッチ（タチ）",
+   "meaning": "high five",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-20",
+   "zh": "一",
+   "ja": null,
+   "meaning": "one",
+   "pos": "num."
+  },
+  {
+   "date": "2025-12-23",
+   "zh": "芋头",
+   "ja": null,
+   "meaning": "taro",
+   "pos": "n."
+  },
+  {
+   "date": "2025-12-24",
+   "zh": null,
+   "ja": "ふわふわ（フアフア）",
+   "meaning": "soft",
+   "pos": "adj."
+  },
+  {
+   "date": "2025-12-29",
+   "zh": "手机（ji）",
+   "ja": null,
+   "meaning": "cellphone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-01",
+   "zh": "马 (mama)",
+   "ja": null,
+   "meaning": "horse",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-01",
+   "zh": null,
+   "ja": "馬（ママ）",
+   "meaning": "horse",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-02",
+   "zh": "起",
+   "ja": null,
+   "meaning": "stand up",
+   "pos": "v."
+  },
+  {
+   "date": "2026-01-04",
+   "zh": null,
+   "ja": "犬（ワンワン）",
+   "meaning": "dog",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-08",
+   "zh": null,
+   "ja": "また",
+   "meaning": "see you",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-01-09",
+   "zh": "兜兜",
+   "ja": null,
+   "meaning": "apron",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-11",
+   "zh": "鲨鱼（shasha）",
+   "ja": null,
+   "meaning": "shark",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-13",
+   "zh": null,
+   "ja": "バナナ",
+   "meaning": "banana",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-15",
+   "zh": "饿",
+   "ja": null,
+   "meaning": "hungry",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-01-15",
+   "zh": null,
+   "ja": "ぶた",
+   "meaning": "pig",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-17",
+   "zh": "手",
+   "ja": null,
+   "meaning": "hand",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-17",
+   "zh": "脚",
+   "ja": "あし",
+   "meaning": "foot",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-19",
+   "zh": null,
+   "ja": "おいしい",
+   "meaning": "delicious",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-01-19",
+   "zh": "比心",
+   "ja": null,
+   "meaning": "love you",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-01-20",
+   "zh": "晚安（wan a）",
+   "ja": null,
+   "meaning": "good night",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-01-22",
+   "zh": "抱",
+   "ja": null,
+   "meaning": "hug, hold",
+   "pos": "v."
+  },
+  {
+   "date": "2026-01-27",
+   "zh": "好吃",
+   "ja": null,
+   "meaning": "delicious",
+   "pos": "n."
+  },
+  {
+   "date": "2026-01-27",
+   "zh": "给",
+   "ja": null,
+   "meaning": "give",
+   "pos": "v."
+  },
+  {
+   "date": "2026-01-29",
+   "zh": "爷爷",
+   "ja": null,
+   "meaning": "grandfa(father side)",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-01",
+   "zh": "姥爷",
+   "ja": null,
+   "meaning": "grandfa(mother side)",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-04",
+   "zh": "老师",
+   "ja": null,
+   "meaning": "teacher",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-04",
+   "zh": "阿姨",
+   "ja": null,
+   "meaning": "aunt",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-04",
+   "zh": "热（ye）",
+   "ja": null,
+   "meaning": "hot",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-05",
+   "zh": "学校",
+   "ja": null,
+   "meaning": "school",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-05",
+   "zh": "叔叔",
+   "ja": null,
+   "meaning": "uncle",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-05",
+   "zh": "电梯",
+   "ja": null,
+   "meaning": "elevator",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-06",
+   "zh": null,
+   "ja": "パンツ",
+   "meaning": "underwear",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-07",
+   "zh": null,
+   "ja": "ジャンプ",
+   "meaning": "jump",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-08",
+   "zh": "到了",
+   "ja": null,
+   "meaning": "arrived",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-09",
+   "zh": "飞机",
+   "ja": null,
+   "meaning": "airplane",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-11",
+   "zh": "关门",
+   "ja": null,
+   "meaning": "close the door",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-12",
+   "zh": "脸脸",
+   "ja": null,
+   "meaning": "face",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-12",
+   "zh": "背背",
+   "ja": null,
+   "meaning": "back",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-13",
+   "zh": "皮筋",
+   "ja": null,
+   "meaning": "rubber band",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-13",
+   "zh": "哈喽",
+   "ja": null,
+   "meaning": "hello",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-02-13",
+   "zh": "地下",
+   "ja": null,
+   "meaning": "ground",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-13",
+   "zh": "掉",
+   "ja": null,
+   "meaning": "drop",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-14",
+   "zh": "眼睛",
+   "ja": null,
+   "meaning": "eye",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-14",
+   "zh": "鼻子",
+   "ja": null,
+   "meaning": "nose",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-14",
+   "zh": "嘴巴",
+   "ja": null,
+   "meaning": "mouth",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-14",
+   "zh": "耳朵",
+   "ja": null,
+   "meaning": "ear",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-15",
+   "zh": "耳机",
+   "ja": null,
+   "meaning": "earphone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-16",
+   "zh": "喝水",
+   "ja": null,
+   "meaning": "drink water",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-16",
+   "zh": "吃饭",
+   "ja": null,
+   "meaning": "eat meal",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-16",
+   "zh": "有",
+   "ja": null,
+   "meaning": "have",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-17",
+   "zh": "这个",
+   "ja": null,
+   "meaning": "this",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-02-17",
+   "zh": "书",
+   "ja": null,
+   "meaning": "book",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-18",
+   "zh": "大猩猩",
+   "ja": null,
+   "meaning": "gorilla",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-18",
+   "zh": "帮",
+   "ja": null,
+   "meaning": "help",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-19",
+   "zh": "鼻屎",
+   "ja": null,
+   "meaning": "booger",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-20",
+   "zh": "记得",
+   "ja": null,
+   "meaning": "remembered",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-20",
+   "zh": "这儿/这里",
+   "ja": null,
+   "meaning": "here",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-02-21",
+   "zh": "纸纸",
+   "ja": null,
+   "meaning": "paper",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-21",
+   "zh": "狗狗",
+   "ja": null,
+   "meaning": "dog",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-22",
+   "zh": "这样",
+   "ja": null,
+   "meaning": "like this",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-23",
+   "zh": "拿",
+   "ja": null,
+   "meaning": "take, hold",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "刷牙",
+   "ja": null,
+   "meaning": "bruth the teeth",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "打",
+   "ja": null,
+   "meaning": "hit",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "抹",
+   "ja": null,
+   "meaning": "spread",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "香香",
+   "ja": null,
+   "meaning": "skin cream",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "画画",
+   "ja": null,
+   "meaning": "draw picture",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "出门、出去",
+   "ja": null,
+   "meaning": "go out",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "公园",
+   "ja": null,
+   "meaning": "park",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-24",
+   "zh": "放",
+   "ja": null,
+   "meaning": "put",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-25",
+   "zh": "遛弯弯",
+   "ja": null,
+   "meaning": "take a walk",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-25",
+   "zh": "撕",
+   "ja": null,
+   "meaning": "tear",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-25",
+   "zh": "擦",
+   "ja": null,
+   "meaning": "wipe",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-25",
+   "zh": "拖地",
+   "ja": null,
+   "meaning": "mop the floor",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-25",
+   "zh": "做饭",
+   "ja": null,
+   "meaning": "cook",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-26",
+   "zh": "肉肉",
+   "ja": null,
+   "meaning": "meat",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-26",
+   "zh": "面包",
+   "ja": null,
+   "meaning": "bread",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-26",
+   "zh": "豆腐",
+   "ja": null,
+   "meaning": "tofu / dog's name",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-26",
+   "zh": "鱼",
+   "ja": null,
+   "meaning": "fish",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-26",
+   "zh": "看电视",
+   "ja": null,
+   "meaning": "watch TV",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "玩具",
+   "ja": null,
+   "meaning": "toy",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "猫猫",
+   "ja": null,
+   "meaning": "cat",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "花花（fafa）",
+   "ja": null,
+   "meaning": "flower",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "菜菜",
+   "ja": null,
+   "meaning": "vegetable",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "米饭",
+   "ja": null,
+   "meaning": "rice",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "粥",
+   "ja": null,
+   "meaning": "porridge",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "汤",
+   "ja": null,
+   "meaning": "soup",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "穿",
+   "ja": null,
+   "meaning": "wear",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "裤裤",
+   "ja": null,
+   "meaning": "trousers",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "外套",
+   "ja": null,
+   "meaning": "coat",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "下雨",
+   "ja": null,
+   "meaning": "rain",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "臭",
+   "ja": null,
+   "meaning": "stink",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "香",
+   "ja": null,
+   "meaning": "fragrant",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "伤心",
+   "ja": null,
+   "meaning": "sad.",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "开心",
+   "ja": null,
+   "meaning": "happy",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": null,
+   "ja": "だめ",
+   "meaning": "not allowed",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "屁屁",
+   "ja": null,
+   "meaning": "butt",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-27",
+   "zh": "洗",
+   "ja": null,
+   "meaning": "wash",
+   "pos": "v."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": null,
+   "ja": "ほっぺっぺ",
+   "meaning": "cheeks",
+   "pos": "n."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": null,
+   "ja": "トントンマンマン",
+   "meaning": "name of a song",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": null,
+   "ja": "バイキンマン",
+   "meaning": "name of a character",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": null,
+   "ja": "ビブ",
+   "meaning": "name of a song",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": null,
+   "ja": "さんさん",
+   "meaning": "name of a song",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-02-28",
+   "zh": "鸭鸭",
+   "ja": null,
+   "meaning": "duck",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-01",
+   "zh": "拉屎",
+   "ja": null,
+   "meaning": "shit",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-01",
+   "zh": "拉臭臭",
+   "ja": null,
+   "meaning": "shit",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-01",
+   "zh": "安（装）",
+   "ja": null,
+   "meaning": "install",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-01",
+   "zh": "戴",
+   "ja": null,
+   "meaning": "wear",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-01",
+   "zh": "掉了",
+   "ja": null,
+   "meaning": "droped",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-02",
+   "zh": "睡觉",
+   "ja": null,
+   "meaning": "sleep",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": null,
+   "ja": "風船",
+   "meaning": "ballon",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": null,
+   "ja": "ドキンちゃん",
+   "meaning": "name of a character",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": null,
+   "ja": "あとで",
+   "meaning": "see you",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "都是",
+   "ja": null,
+   "meaning": "all belong to…",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "的",
+   "ja": null,
+   "meaning": "of (sb.)",
+   "pos": "prep."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "拼图",
+   "ja": null,
+   "meaning": "puzzle",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "咩咩",
+   "ja": null,
+   "meaning": "sheep",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "打开",
+   "ja": null,
+   "meaning": "open",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-05",
+   "zh": "能",
+   "ja": null,
+   "meaning": "can",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-06",
+   "zh": "防晒",
+   "ja": null,
+   "meaning": "sun cream",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-09",
+   "zh": "花洒",
+   "ja": null,
+   "meaning": "showerhead",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-10",
+   "zh": "来",
+   "ja": null,
+   "meaning": "come",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-11",
+   "zh": null,
+   "ja": "お終い",
+   "meaning": "finish (end of story)",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": null,
+   "ja": "トトロ",
+   "meaning": "name of a character",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "拉粑粑",
+   "ja": null,
+   "meaning": "shit",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "了",
+   "ja": null,
+   "meaning": "finished doing sth.",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "拜托",
+   "ja": null,
+   "meaning": "please",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "垃圾",
+   "ja": null,
+   "meaning": "rubbish",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": null,
+   "ja": "なに",
+   "meaning": "what",
+   "pos": "interrog."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "眼镜",
+   "ja": null,
+   "meaning": "glass",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-14",
+   "zh": "拍照",
+   "ja": null,
+   "meaning": "take photo",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-15",
+   "zh": "完了",
+   "ja": null,
+   "meaning": "finished",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-15",
+   "zh": null,
+   "ja": "あれ",
+   "meaning": "En?",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-03-15",
+   "zh": null,
+   "ja": "可愛い",
+   "meaning": "cute",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-03-16",
+   "zh": null,
+   "ja": "もういいかい？まただよ",
+   "meaning": "hide and seak",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-03-17",
+   "zh": null,
+   "ja": "学校",
+   "meaning": "school",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-18",
+   "zh": null,
+   "ja": "明日",
+   "meaning": "tomorrow",
+   "pos": "n."
+  },
+  {
+   "date": "2026-03-27",
+   "zh": "洒了",
+   "ja": null,
+   "meaning": "spilled",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-27",
+   "zh": "伸懒腰",
+   "ja": null,
+   "meaning": "stretch",
+   "pos": "v."
+  },
+  {
+   "date": "2026-03-28",
+   "zh": null,
+   "ja": "お茶",
+   "meaning": "tea",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-02",
+   "zh": "东西",
+   "ja": null,
+   "meaning": "thing",
+   "pos": "pron."
+  },
+  {
+   "date": "2026-04-02",
+   "zh": null,
+   "ja": "来た",
+   "meaning": "came",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": null,
+   "ja": "おやつ",
+   "meaning": "sweets",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": null,
+   "ja": "どっちだ",
+   "meaning": "Which one",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": "有",
+   "ja": null,
+   "meaning": "have",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": "从一数到八",
+   "ja": null,
+   "meaning": "one to ten",
+   "pos": "num."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": null,
+   "ja": "从一数到十",
+   "meaning": "one to ten",
+   "pos": "num."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": null,
+   "ja": "カメ",
+   "meaning": "turtle",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-03",
+   "zh": null,
+   "ja": "メロン",
+   "meaning": "melon",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-04",
+   "zh": "酱油",
+   "ja": null,
+   "meaning": "soy sause",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-04",
+   "zh": "香油",
+   "ja": null,
+   "meaning": "oil",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-04",
+   "zh": null,
+   "ja": "これは？",
+   "meaning": "What's this",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-04",
+   "zh": null,
+   "ja": "電車",
+   "meaning": "electric train",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-05",
+   "zh": "咖啡",
+   "ja": null,
+   "meaning": "coffee",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-05",
+   "zh": null,
+   "ja": "ありがと",
+   "meaning": "Thanks",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-04-05",
+   "zh": null,
+   "ja": "ウサギ",
+   "meaning": "rabbit",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-07",
+   "zh": null,
+   "ja": "パンダ",
+   "meaning": "giant panda",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-08",
+   "zh": null,
+   "ja": "座れ",
+   "meaning": "sit",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-09",
+   "zh": null,
+   "ja": "始まろう",
+   "meaning": "Let's begin",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-10",
+   "zh": null,
+   "ja": "いない",
+   "meaning": "not present",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-11",
+   "zh": "磨牙棒",
+   "ja": null,
+   "meaning": "Teething stick",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-11",
+   "zh": null,
+   "ja": "どうしたの",
+   "meaning": "What happened?",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-11",
+   "zh": null,
+   "ja": "あか",
+   "meaning": "red",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-11",
+   "zh": null,
+   "ja": "みどり",
+   "meaning": "green",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-12",
+   "zh": null,
+   "ja": "ごめんね",
+   "meaning": "sorry",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-04-12",
+   "zh": null,
+   "ja": "ドーナツ",
+   "meaning": "donuts",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-13",
+   "zh": null,
+   "ja": "せーのっ",
+   "meaning": "Ready…Start",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-16",
+   "zh": "手帕",
+   "ja": null,
+   "meaning": "handkerchief",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-16",
+   "zh": null,
+   "ja": "トマト",
+   "meaning": "tomato",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-17",
+   "zh": "还有",
+   "ja": null,
+   "meaning": "and",
+   "pos": "conj."
+  },
+  {
+   "date": "2026-04-17",
+   "zh": null,
+   "ja": "誰",
+   "meaning": "who",
+   "pos": "interrog."
+  },
+  {
+   "date": "2026-04-17",
+   "zh": null,
+   "ja": "と",
+   "meaning": "and",
+   "pos": "conj."
+  },
+  {
+   "date": "2026-04-18",
+   "zh": "闭上眼睛",
+   "ja": null,
+   "meaning": "close your eyes",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-19",
+   "zh": null,
+   "ja": "冷たい",
+   "meaning": "cold",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-20",
+   "zh": null,
+   "ja": "出てない",
+   "meaning": "not coming out",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-21",
+   "zh": "凳凳",
+   "ja": null,
+   "meaning": "chair",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": "头发",
+   "ja": null,
+   "meaning": "hair",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": null,
+   "ja": "飲む",
+   "meaning": "drink",
+   "pos": "v."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": "不记得了",
+   "ja": null,
+   "meaning": "don't remember",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": "一起",
+   "ja": null,
+   "meaning": "together",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": "挽袖袖",
+   "ja": null,
+   "meaning": "roll up sleeves",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": null,
+   "ja": "うち",
+   "meaning": "home",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-22",
+   "zh": null,
+   "ja": "の",
+   "meaning": "of",
+   "pos": "prep."
+  },
+  {
+   "date": "2026-04-25",
+   "zh": null,
+   "ja": "一緒ね",
+   "meaning": "(we are) the same",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-25",
+   "zh": null,
+   "ja": "メヒガノ",
+   "meaning": "mexican",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-27",
+   "zh": null,
+   "ja": "むし",
+   "meaning": "bugs",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-27",
+   "zh": null,
+   "ja": "怖い",
+   "meaning": "scary",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-27",
+   "zh": null,
+   "ja": "2歳",
+   "meaning": "2 years old",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-04-28",
+   "zh": null,
+   "ja": "重い",
+   "meaning": "heavy",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-28",
+   "zh": null,
+   "ja": "きらきら星",
+   "meaning": "name of a song",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-28",
+   "zh": null,
+   "ja": "すごい",
+   "meaning": "amazing",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-28",
+   "zh": null,
+   "ja": "気持ちいい",
+   "meaning": "comfortable",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-29",
+   "zh": null,
+   "ja": "お尻",
+   "meaning": "butt",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-29",
+   "zh": null,
+   "ja": "速い",
+   "meaning": "fast",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-04-29",
+   "zh": null,
+   "ja": "ひよこ",
+   "meaning": "chick",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-30",
+   "zh": null,
+   "ja": "救急車",
+   "meaning": "ambulance",
+   "pos": "n."
+  },
+  {
+   "date": "2026-04-30",
+   "zh": "肿么啦",
+   "ja": null,
+   "meaning": "what's wrong",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-05-01",
+   "zh": null,
+   "ja": "ピカチュ",
+   "meaning": "name of a character",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-02",
+   "zh": null,
+   "ja": "もっともっと",
+   "meaning": "more more",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-05-03",
+   "zh": null,
+   "ja": "まる",
+   "meaning": "circle",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-03",
+   "zh": null,
+   "ja": "鬼",
+   "meaning": "ogre",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-05",
+   "zh": null,
+   "ja": "ピアノ",
+   "meaning": "piano",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-09",
+   "zh": null,
+   "ja": "葡萄",
+   "meaning": "grapes",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-09",
+   "zh": null,
+   "ja": "頭",
+   "meaning": "head",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-09",
+   "zh": null,
+   "ja": "甘い",
+   "meaning": "sweet",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-05-10",
+   "zh": null,
+   "ja": "新幹線",
+   "meaning": "bullet train",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-11",
+   "zh": null,
+   "ja": "xxして",
+   "meaning": "do sth.",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-05-11",
+   "zh": null,
+   "ja": "ゴリラ",
+   "meaning": "gorilla",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-12",
+   "zh": "哔哔",
+   "ja": null,
+   "meaning": "card",
+   "pos": "n."
+  },
+  {
+   "date": "2026-05-21",
+   "zh": null,
+   "ja": "こんにちは",
+   "meaning": "hello",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-05-27",
+   "zh": "充电",
+   "ja": null,
+   "meaning": "charge",
+   "pos": "v."
+  },
+  {
+   "date": "2026-05-30",
+   "zh": null,
+   "ja": "入れて",
+   "meaning": "put xx inside",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-02",
+   "zh": null,
+   "ja": "見せて",
+   "meaning": "let sb. see sth.",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-03",
+   "zh": null,
+   "ja": "危ない",
+   "meaning": "dangerous",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-06-04",
+   "zh": null,
+   "ja": "ダンゴムシ",
+   "meaning": "pill bug",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-04",
+   "zh": null,
+   "ja": "蝶ちょう",
+   "meaning": "butterfly",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-04",
+   "zh": null,
+   "ja": "あった",
+   "meaning": "found it",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-04",
+   "zh": null,
+   "ja": "落ちちゃた",
+   "meaning": "dropped",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-05",
+   "zh": null,
+   "ja": "やめて",
+   "meaning": "stop",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-05",
+   "zh": null,
+   "ja": "手伝って",
+   "meaning": "help",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-05",
+   "zh": null,
+   "ja": "もう",
+   "meaning": "complain",
+   "pos": "interj."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "餃子",
+   "meaning": "dumplings",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "ご飯",
+   "meaning": "rice",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "全部",
+   "meaning": "all",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "いっぱい",
+   "meaning": "a lot",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "持って",
+   "meaning": "take/have",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-07",
+   "zh": null,
+   "ja": "終わったら",
+   "meaning": "after finish",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-06-10",
+   "zh": null,
+   "ja": "カラス",
+   "meaning": "crow",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-11",
+   "zh": null,
+   "ja": "まず",
+   "meaning": "first",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-06-13",
+   "zh": null,
+   "ja": "きゅうり",
+   "meaning": "cucumber",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-13",
+   "zh": null,
+   "ja": "壊れちゃった",
+   "meaning": "broken",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-13",
+   "zh": null,
+   "ja": "おしこ",
+   "meaning": "piss",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-13",
+   "zh": null,
+   "ja": "どこ",
+   "meaning": "where",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-06-14",
+   "zh": null,
+   "ja": "スズメ",
+   "meaning": "sparrow",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-16",
+   "zh": null,
+   "ja": "ちょっと待って",
+   "meaning": "wait a moment",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-06-17",
+   "zh": null,
+   "ja": "お兄さん",
+   "meaning": "older brother",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-17",
+   "zh": null,
+   "ja": "お姉さん",
+   "meaning": "older sister",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-17",
+   "zh": null,
+   "ja": "遊ぼう",
+   "meaning": "let's play",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-23",
+   "zh": null,
+   "ja": "カレー",
+   "meaning": "curry",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-24",
+   "zh": null,
+   "ja": "閉まって",
+   "meaning": "close",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-24",
+   "zh": null,
+   "ja": "ところ",
+   "meaning": "place",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-24",
+   "zh": null,
+   "ja": "絞って",
+   "meaning": "squeeze",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "食べる",
+   "meaning": "eat",
+   "pos": "v."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "だって",
+   "meaning": "sb. said...",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "は",
+   "meaning": "particle for subject",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "に",
+   "meaning": "particle for object",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": "风扇",
+   "ja": null,
+   "meaning": "fan",
+   "pos": "n."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "いただきます",
+   "meaning": "I will eat",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-06-27",
+   "zh": null,
+   "ja": "起きた",
+   "meaning": "wake up",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-01",
+   "zh": null,
+   "ja": "これがいい",
+   "meaning": "this is fine",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-02",
+   "zh": null,
+   "ja": "しっぽ",
+   "meaning": "tail",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-02",
+   "zh": null,
+   "ja": "時計",
+   "meaning": "clock",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-03",
+   "zh": null,
+   "ja": "ただいま",
+   "meaning": "I arrived",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-03",
+   "zh": null,
+   "ja": "お帰り",
+   "meaning": "welcome back",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-04",
+   "zh": null,
+   "ja": "よし",
+   "meaning": "nice",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-05",
+   "zh": null,
+   "ja": "寝る",
+   "meaning": "sleep",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-05",
+   "zh": null,
+   "ja": "見えない",
+   "meaning": "can't see",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-05",
+   "zh": null,
+   "ja": "ストップ",
+   "meaning": "stop",
+   "pos": "interrog."
+  },
+  {
+   "date": "2026-07-06",
+   "zh": null,
+   "ja": "弁当",
+   "meaning": "box lunch",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-06",
+   "zh": null,
+   "ja": "xxじゃない",
+   "meaning": "it's not…",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-07",
+   "zh": null,
+   "ja": "サンドイッチ",
+   "meaning": "sandwich",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-07",
+   "zh": null,
+   "ja": "履いて",
+   "meaning": "put on (shoes)",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-07",
+   "zh": null,
+   "ja": "当ててみて",
+   "meaning": "guess",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-07",
+   "zh": null,
+   "ja": "石",
+   "meaning": "stone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-08",
+   "zh": null,
+   "ja": "ピース",
+   "meaning": "peace sign",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-08",
+   "zh": null,
+   "ja": "ひとつ",
+   "meaning": "one",
+   "pos": "num."
+  },
+  {
+   "date": "2026-07-08",
+   "zh": null,
+   "ja": "キツネ",
+   "meaning": "fox",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-08",
+   "zh": null,
+   "ja": "トマス",
+   "meaning": "name of a character",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-09",
+   "zh": null,
+   "ja": "バス",
+   "meaning": "bus",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-09",
+   "zh": "做",
+   "ja": null,
+   "meaning": "do",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-09",
+   "zh": null,
+   "ja": "そと",
+   "meaning": "outside",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-07-09",
+   "zh": null,
+   "ja": "片付け",
+   "meaning": "tidying up",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "助けて",
+   "meaning": "help",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "隠れて",
+   "meaning": "hide",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "楽しい",
+   "meaning": "happy",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "行くよ",
+   "meaning": "let's go",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "熱い",
+   "meaning": "hot",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "お腹すいた",
+   "meaning": "hungry",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "あそこ",
+   "meaning": "there",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-07-10",
+   "zh": null,
+   "ja": "皆さん",
+   "meaning": "everyone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-11",
+   "zh": null,
+   "ja": "xxしません",
+   "meaning": "don't do sth.",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-11",
+   "zh": null,
+   "ja": "推して",
+   "meaning": "push",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-11",
+   "zh": null,
+   "ja": "アイス",
+   "meaning": "ice cream",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "ふたつ",
+   "meaning": "two",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "セーフ",
+   "meaning": "safe",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "走る",
+   "meaning": "run",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "レッツ・ゴー",
+   "meaning": "let's go",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "おばあちゃん",
+   "meaning": "grandmother",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": null,
+   "ja": "ネズミ",
+   "meaning": "mice",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": "石头",
+   "ja": null,
+   "meaning": "stone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": "剪刀",
+   "ja": null,
+   "meaning": "scissors",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-12",
+   "zh": "布",
+   "ja": null,
+   "meaning": "cloth",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": "拉手手",
+   "ja": null,
+   "meaning": "hold hand",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": "水水",
+   "ja": null,
+   "meaning": "water",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": "吃",
+   "ja": null,
+   "meaning": "eat",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": null,
+   "ja": "してる",
+   "meaning": "doing",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": null,
+   "ja": "いいよ",
+   "meaning": "it's ok",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": null,
+   "ja": "おやすみ",
+   "meaning": "good night",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-13",
+   "zh": null,
+   "ja": "おはよう",
+   "meaning": "good morning",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-14",
+   "zh": null,
+   "ja": "クレヨン",
+   "meaning": "crayon",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-14",
+   "zh": null,
+   "ja": "ハート",
+   "meaning": "heart",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "登る",
+   "meaning": "climb",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "友達",
+   "meaning": "friends",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "違う",
+   "meaning": "wrong",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "よ",
+   "meaning": "exclamation mark",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "あと",
+   "meaning": "after, next",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "そうだよ",
+   "meaning": "that's right",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-16",
+   "zh": null,
+   "ja": "こう",
+   "meaning": "like this",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-17",
+   "zh": null,
+   "ja": "出た",
+   "meaning": "(piss) out",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-17",
+   "zh": null,
+   "ja": "集まれ",
+   "meaning": "gather",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-17",
+   "zh": null,
+   "ja": "おひさま",
+   "meaning": "sun",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-18",
+   "zh": null,
+   "ja": "帽子",
+   "meaning": "hat, cap",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-19",
+   "zh": null,
+   "ja": "水遊び",
+   "meaning": "water play",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-19",
+   "zh": null,
+   "ja": "になった",
+   "meaning": "became",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-07-20",
+   "zh": null,
+   "ja": "タヌキ",
+   "meaning": "raccoon dog",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-20",
+   "zh": "叔叔",
+   "ja": null,
+   "meaning": "uncle",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-20",
+   "zh": "阿姨",
+   "ja": null,
+   "meaning": "aunt",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-20",
+   "zh": null,
+   "ja": "スプーン",
+   "meaning": "spoon",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-22",
+   "zh": "绿豆",
+   "ja": null,
+   "meaning": "green been",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-22",
+   "zh": null,
+   "ja": "ナス",
+   "meaning": "eggplant",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-22",
+   "zh": null,
+   "ja": "できた",
+   "meaning": "done",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-22",
+   "zh": null,
+   "ja": "ひとり",
+   "meaning": "one person",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-23",
+   "zh": "衣服",
+   "ja": null,
+   "meaning": "cloth",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-23",
+   "zh": "脏脏",
+   "ja": null,
+   "meaning": "dirty",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-23",
+   "zh": null,
+   "ja": "あげる",
+   "meaning": "give",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-24",
+   "zh": null,
+   "ja": "悲しい",
+   "meaning": "sad",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-25",
+   "zh": null,
+   "ja": "ペコペコ",
+   "meaning": "hungry",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-07-25",
+   "zh": null,
+   "ja": "メガネ",
+   "meaning": "glass",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-27",
+   "zh": null,
+   "ja": "です",
+   "meaning": "be",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-27",
+   "zh": null,
+   "ja": "絵本",
+   "meaning": "picture book",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-28",
+   "zh": null,
+   "ja": "オムツ",
+   "meaning": "diaper",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-29",
+   "zh": null,
+   "ja": "牛乳",
+   "meaning": "milk",
+   "pos": "n."
+  },
+  {
+   "date": "2026-07-29",
+   "zh": null,
+   "ja": "できない",
+   "meaning": "can't do",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-30",
+   "zh": "不能",
+   "ja": null,
+   "meaning": "can't do",
+   "pos": "v."
+  },
+  {
+   "date": "2026-07-30",
+   "zh": null,
+   "ja": "あのう",
+   "meaning": "well",
+   "pos": "ptcl."
+  },
+  {
+   "date": "2026-07-30",
+   "zh": "看",
+   "ja": null,
+   "meaning": "look",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-01",
+   "zh": null,
+   "ja": "でも",
+   "meaning": "but",
+   "pos": "conj."
+  },
+  {
+   "date": "2026-08-01",
+   "zh": null,
+   "ja": "見つけた",
+   "meaning": "found it",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-02",
+   "zh": null,
+   "ja": "パインアップル",
+   "meaning": "pineapple",
+   "pos": "n."
+  },
+  {
+   "date": "2026-08-03",
+   "zh": "进去",
+   "ja": null,
+   "meaning": "get in",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-03",
+   "zh": null,
+   "ja": "読んで",
+   "meaning": "read",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-03",
+   "zh": null,
+   "ja": "たい",
+   "meaning": "want",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-08-04",
+   "zh": null,
+   "ja": "もう一個",
+   "meaning": "one more",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-08-04",
+   "zh": null,
+   "ja": "一枚",
+   "meaning": "one piece",
+   "pos": "quan."
+  },
+  {
+   "date": "2026-08-04",
+   "zh": null,
+   "ja": "美味しくなれ",
+   "meaning": "become juicy",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-08-04",
+   "zh": null,
+   "ja": "頑張れ",
+   "meaning": "cheer up",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-04",
+   "zh": null,
+   "ja": "行きます",
+   "meaning": "go",
+   "pos": "v."
+  },
+  {
+   "date": "2026-08-05",
+   "zh": null,
+   "ja": "おはようございます",
+   "meaning": "good morning",
+   "pos": "v."
+  }
+ ]
+}
