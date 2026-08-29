@@ -103,8 +103,9 @@ main.content h2 {
   font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .14em;
   border-top: 1px solid #111; padding-top: 18px; margin: 42px 0 18px;
 }
-main.content p { max-width: 38em; }
-main.content ul, main.content ol { padding-left: 20px; }
+main.content p { max-width: 38em; margin-bottom: 14px; }
+main.content p:last-child { margin-bottom: 0; }
+main.content ul, main.content ol { padding-left: 20px; margin-bottom: 14px; }
 main.content li { margin: 6px 0; }
 code {
   font-family: "SF Mono", Menlo, Consolas, monospace;
@@ -122,6 +123,10 @@ table.cv th {
   letter-spacing: .12em; color: #999; border-top: 0;
 }
 table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* 论文列表 */
+ol.pubs { padding-left: 20px; }
+ol.pubs li { margin: 0 0 14px; padding-left: 4px; line-height: 1.65; max-width: 42em; }
 
 /* 照片页 iframe */
 .map-frame {

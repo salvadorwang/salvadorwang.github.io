@@ -7,9 +7,10 @@
 const ORCID_ID = "0009-0004-2828-5797";
 
 const SITE = {
-  name: "Xiongfei Wang",                      // TODO: 确认英文名写法
-  bio: "PhD student at Tohoku University",    // TODO: 一句话简介
-  avatar: "images/profile.svg",               // TODO: 换成你的照片，如 images/profile.jpg
+  name: "Salvador Xiongfei Wang",             // 左侧栏全名
+  shortName: "Salvador Wang",                 // 左上角站名
+  bio: "PhD student at Tohoku University",
+  avatar: "images/profile.jpg",
   location: "Sendai, Miyagi, Japan",
   links: [
     // 普通链接写 url；写 popup 则改为点击弹出一张图片（如微信二维码）
@@ -20,7 +21,7 @@ const SITE = {
     // { label: "Google Scholar", url: "https://scholar.google.com/citations?user=..." },
   ],
   nav: [
-    { title: "About",        href: "index.html" },
+    { title: "Home",         href: "index.html" },
     { title: "CV",           href: "cv.html" },
     { title: "Publications", href: "publications.html" },
     { title: "AOA",          href: "aoa.html" },
@@ -41,7 +42,7 @@ const SITE = {
   const masthead = document.getElementById("masthead");
   masthead.innerHTML = `
     <div class="masthead-inner">
-      <a class="site-title" href="${root}index.html">${SITE.name}</a>
+      <a class="site-title" href="${root}index.html">${SITE.shortName || SITE.name}</a>
       <nav class="site-nav">${navHtml}</nav>
     </div>`;
 
