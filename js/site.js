@@ -3,17 +3,21 @@
  * 改这里的 SITE 对象，所有页面的顶部导航和左侧个人栏同步更新。
  * ============================================================ */
 
+// 你的 ORCID iD（形如 0000-0002-1825-0097），只需改这一处
+const ORCID_ID = "0009-0004-2828-5797";
+
 const SITE = {
   name: "Xiongfei Wang",                      // TODO: 确认英文名写法
   bio: "PhD student at Tohoku University",    // TODO: 一句话简介
   avatar: "images/profile.svg",               // TODO: 换成你的照片，如 images/profile.jpg
   location: "Sendai, Miyagi, Japan",
   links: [
-    // icon 支持: email / github / scholar / orcid / twitter / link
-    { icon: "email",  label: "Email",  url: "mailto:wang.xiongfei.r6@dc.tohoku.ac.jp" },
-    { icon: "github", label: "GitHub", url: "https://github.com/salvadorwang" }
-    // { icon: "scholar", label: "Google Scholar", url: "https://scholar.google.com/..." },
-    // { icon: "orcid",   label: "ORCID",          url: "https://orcid.org/..." },
+    // 普通链接写 url；写 popup 则改为点击弹出一张图片（如微信二维码）
+    { label: "Email",  url: "mailto:wang.xiongfei.r6@dc.tohoku.ac.jp" },
+    { label: "GitHub", url: "https://github.com/salvadorwang" },
+    { label: "ORCID",  url: "https://orcid.org/" + ORCID_ID },
+    { label: "WeChat", popup: "images/wechat-qr.jpg", popupAlt: "WeChat QR code" }
+    // { label: "Google Scholar", url: "https://scholar.google.com/citations?user=..." },
   ],
   nav: [
     { title: "About",        href: "index.html" },
@@ -41,8 +45,9 @@ const SITE = {
       <nav class="site-nav">${navHtml}</nav>
     </div>`;
 
-  const linksHtml = SITE.links.map((l) =>
-    `<li><a href="${l.url}" target="_blank" rel="noopener">${l.label} ↗</a></li>`
+  const linksHtml = SITE.links.map((l, i) => l.popup
+    ? `<li><button class="link-btn" data-popup="${i}">${l.label} ⧉</button></li>`
+    : `<li><a href="${l.url}" target="_blank" rel="noopener">${l.label} ↗</a></li>`
   ).join("");
 
   // 头像：配置的是 svg 占位图时显示蓝底姓名首字母色块，更贴合主题
@@ -62,5 +67,35 @@ const SITE = {
         <p class="side-label">Contact</p>
         <ul class="author-links">${linksHtml}</ul>
       </div>`;
+    initPopups(root);
   }
 })();
+
+/* 点击弹出图片（微信二维码等） */
+function initPopups(root) {
+  const box = document.createElement("div");
+  box.id = "img-popup";
+  box.className = "hidden";
+  box.innerHTML =
+    '<div class="popup-backdrop"></div>' +
+    '<figure class="popup-card">' +
+    '<button class="popup-close" aria-label="Close">✕</button>' +
+    '<img alt=""><figcaption></figcaption></figure>';
+  document.body.appendChild(box);
+
+  const close = () => box.classList.add("hidden");
+  box.querySelector(".popup-backdrop").addEventListener("click", close);
+  box.querySelector(".popup-close").addEventListener("click", close);
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") close(); });
+
+  document.querySelectorAll(".link-btn[data-popup]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const l = SITE.links[+btn.dataset.popup];
+      const img = box.querySelector("img");
+      img.src = root + l.popup;
+      img.alt = l.popupAlt || l.label;
+      box.querySelector("figcaption").textContent = l.popupCaption || `Scan to add me on ${l.label}`;
+      box.classList.remove("hidden");
+    });
+  });
+}
