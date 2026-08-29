@@ -11,6 +11,8 @@ const SITE = {
   shortName: "Salvador Wang",                 // 左上角站名
   bio: "PhD student at Tohoku University",
   avatar: "images/profile.jpg",
+  // 头像样式: offset(蓝块错位) | mount(装裱) | circle(圆形) | arch(拱形) | plain(纯方形)
+  avatarStyle: "offset",
   location: "Sendai, Miyagi, Japan",
   links: [
     // 普通链接写 url；写 popup 则改为点击弹出一张图片（如微信二维码）
@@ -55,12 +57,14 @@ const SITE = {
   const avatarHtml = SITE.avatar.endsWith(".svg")
     ? `<div class="avatar-initials">${SITE.name.split(/\s+/).map(w => w[0]).join("").toUpperCase()}</div>`
     : `<img class="avatar" src="${root}${SITE.avatar}" alt="${SITE.name}">`;
+  const avatarBlock =
+    `<div class="avatar-wrap is-${SITE.avatarStyle || "plain"}">${avatarHtml}</div>`;
 
   const sidebar = document.getElementById("sidebar");
   if (sidebar) {
     sidebar.innerHTML = `
       <div class="sidebar-sticky">
-        ${avatarHtml}
+        ${avatarBlock}
         <h2 class="author-name">${SITE.name}</h2>
         <p class="author-bio">${SITE.bio}</p>
         <p class="side-label">Based in</p>
