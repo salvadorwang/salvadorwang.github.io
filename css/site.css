@@ -182,7 +182,6 @@ ol.pubs li { margin: 0 0 14px; padding-left: 4px; line-height: 1.65; max-width: 
 .sw.circle { border-radius: 50%; }
 .aoa-chart-wrap { position: relative; }
 #aoa-chart { width: 100%; height: auto; display: block; }
-.chart-hint { font-size: 12px; color: #888; margin: 0 0 12px; }
 #aoa-chart .tick { font-size: 11px; fill: #777; font-family: "Archivo", sans-serif; font-variant-numeric: tabular-nums; }
 #aoa-chart .axis-label { font-size: 10px; font-weight: 700; letter-spacing: .12em; fill: #999; font-family: "Archivo", sans-serif; }
 #aoa-chart .series-label { font-size: 13px; font-weight: 700; font-family: "Archivo", sans-serif; }
