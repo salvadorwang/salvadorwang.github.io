@@ -9,6 +9,9 @@ html, body {
 }
 a { color: #111; text-decoration: none; }
 a:hover { color: #002fa7; }
+/* 正文中的链接：克莱因蓝 + 下划线，一眼能看出可点击 */
+main.content a { color: #002fa7; text-decoration: underline; text-underline-offset: 2px; }
+main.content a:hover { background: #002fa7; color: #fff; text-decoration: none; }
 .hidden { display: none !important; }
 
 /* ---------- 顶部导航 ---------- */
@@ -127,6 +130,9 @@ main.content h2 {
   border-top: 1px solid #111; padding-top: 18px; margin: 42px 0 18px;
 }
 main.content p { max-width: 38em; margin-bottom: 14px; }
+/* 正文两端对齐（表格、侧栏不受影响）；配合自动断词避免出现字距过大的「河流」*/
+main.content p, main.content li, .talk-text { text-align: justify; hyphens: auto; }
+main.content .eyebrow { text-align: left; }
 main.content p:last-child { margin-bottom: 0; }
 main.content ul, main.content ol { padding-left: 20px; margin-bottom: 14px; }
 main.content li { margin: 6px 0; }

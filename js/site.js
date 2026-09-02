@@ -17,7 +17,6 @@ const SITE = {
   links: [
     // 普通链接写 url；写 popup 则改为点击弹出一张图片（如微信二维码）
     { label: "Email",  url: "mailto:wang.xiongfei.r6@dc.tohoku.ac.jp" },
-    { label: "GitHub", url: "https://github.com/salvadorwang" },
     { label: "ORCID",  url: "https://orcid.org/" + ORCID_ID },
     { label: "WeChat", popup: "images/wechat-qr.jpg", popupAlt: "WeChat QR code" }
     // { label: "Google Scholar", url: "https://scholar.google.com/citations?user=..." },
