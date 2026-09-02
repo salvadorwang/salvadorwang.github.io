@@ -151,6 +151,19 @@ table.cv td:first-child { font-weight: 700; white-space: nowrap; font-variant-nu
 ol.pubs { padding-left: 20px; }
 ol.pubs li { margin: 0 0 14px; padding-left: 4px; line-height: 1.65; max-width: 42em; }
 
+/* Talks 页：左侧文字，右侧统一尺寸缩略图 */
+ol.talks { list-style: none; padding: 0; margin: 0; }
+ol.talks li {
+  display: flex; gap: 24px; align-items: flex-start;
+  padding: 20px 0; border-top: 1px solid #e6e6e6; margin: 0;
+}
+ol.talks li:first-child { border-top: 0; padding-top: 6px; }
+.talk-text { flex: 1; min-width: 0; line-height: 1.65; font-size: 15px; }
+.talk-thumb {
+  flex: 0 0 240px; width: 240px; height: 160px;
+  object-fit: cover; display: block; border: 1px solid #111;
+}
+
 /* 照片页 iframe */
 .map-frame {
   width: 100%; height: calc(100vh - 210px); min-height: 480px;

@@ -25,6 +25,7 @@ const SITE = {
   nav: [
     { title: "Home",         href: "index.html" },
     { title: "CV",           href: "cv.html" },
+    { title: "Talks",        href: "talks.html" },
     { title: "Publications", href: "publications.html" },
     { title: "AOA",          href: "aoa.html" },
     { title: "Photos",       href: "photos.html" }
