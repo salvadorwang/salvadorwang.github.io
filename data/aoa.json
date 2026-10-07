@@ -1,6 +1,6 @@
 {
  "birthday": "2024-03-16",
- "updated": "2026-09-28",
+ "updated": "2026-10-07",
  "words": [
   {
    "date": "2024-06-10",
@@ -3697,6 +3697,142 @@
    "kana": null,
    "meaning": "slipper",
    "pos": "n."
+  },
+  {
+   "date": "2026-09-30",
+   "zh": null,
+   "ja": "ホテル",
+   "kana": "ほてる",
+   "meaning": "hotel",
+   "pos": "n."
+  },
+  {
+   "date": "2026-09-30",
+   "zh": null,
+   "ja": "団子",
+   "kana": "だんご",
+   "meaning": "Japanese sweet",
+   "pos": "n."
+  },
+  {
+   "date": "2026-09-30",
+   "zh": null,
+   "ja": "カニ",
+   "kana": "かに",
+   "meaning": "crab",
+   "pos": "n."
+  },
+  {
+   "date": "2026-09-30",
+   "zh": "难",
+   "ja": null,
+   "kana": null,
+   "meaning": "hard",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-09-30",
+   "zh": "羞羞",
+   "ja": null,
+   "kana": null,
+   "meaning": "shame",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-10-01",
+   "zh": "出来",
+   "ja": null,
+   "kana": null,
+   "meaning": "get out",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-01",
+   "zh": "贴贴",
+   "ja": null,
+   "kana": null,
+   "meaning": "sticker",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-01",
+   "zh": "里头",
+   "ja": null,
+   "kana": null,
+   "meaning": "inside",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-10-01",
+   "zh": "外头",
+   "ja": null,
+   "kana": null,
+   "meaning": "outside",
+   "pos": "adv."
+  },
+  {
+   "date": "2026-10-04",
+   "zh": null,
+   "ja": "動物園",
+   "kana": "どうぶつえん",
+   "meaning": "zoo",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-04",
+   "zh": "冰箱",
+   "ja": null,
+   "kana": null,
+   "meaning": "refrigerator",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-04",
+   "zh": null,
+   "ja": "並んでる",
+   "kana": "ならんでる",
+   "meaning": "lined up",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-05",
+   "zh": "梳脑袋",
+   "ja": null,
+   "kana": null,
+   "meaning": "brush hair",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-10-05",
+   "zh": "按摩",
+   "ja": null,
+   "kana": null,
+   "meaning": "massage",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-05",
+   "zh": "痒痒",
+   "ja": null,
+   "kana": null,
+   "meaning": "itchy",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-10-05",
+   "zh": "疼",
+   "ja": null,
+   "kana": null,
+   "meaning": "painful",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-10-06",
+   "zh": null,
+   "ja": "聞きたい",
+   "kana": "ききたい",
+   "meaning": "want to hear",
+   "pos": "v."
   }
  ]
 }

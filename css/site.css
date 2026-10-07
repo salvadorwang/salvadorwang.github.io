@@ -94,6 +94,18 @@ main.content a:hover { background: #002fa7; color: #fff; text-decoration: none; 
 }
 .link-btn:hover { color: #002fa7; }
 
+/* 访问量（点击按钮展开） */
+.visits { margin-top: 2px; }
+.visit-row {
+  display: flex; align-items: baseline; gap: 10px;
+  font-size: 13px; color: #555; padding: 4px 0;
+  border-top: 1px solid #f0f0f0;
+}
+.visit-row:first-child { border-top: 0; }
+.visit-row b {
+  margin-left: auto; color: #111; font-variant-numeric: tabular-nums;
+}
+
 /* 点击弹出的图片（微信二维码） */
 #img-popup { position: fixed; inset: 0; z-index: 200;
   display: flex; align-items: center; justify-content: center; }

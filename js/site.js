@@ -71,8 +71,18 @@ const SITE = {
         <ul class="author-links"><li>${SITE.location}</li></ul>
         <p class="side-label">Contact</p>
         <ul class="author-links">${linksHtml}</ul>
+        <p class="side-label">Visits</p>
+        <ul class="author-links">
+          <li><button class="link-btn" id="visits-btn">Show visit count ▸</button></li>
+        </ul>
+        <div id="visits-box" class="visits hidden">
+          <div class="visit-row"><span>Site views</span><b id="busuanzi_value_site_pv">…</b></div>
+          <div class="visit-row"><span>Visitors</span><b id="busuanzi_value_site_uv">…</b></div>
+          <div class="visit-row"><span>This page</span><b id="busuanzi_value_page_pv">…</b></div>
+        </div>
       </div>`;
     initPopups(root);
+    initVisitCounter();
   }
 })();
 
@@ -103,4 +113,43 @@ function initPopups(root) {
       box.classList.remove("hidden");
     });
   });
+}
+
+/* 访问量统计：不蒜子（第三方，免注册）。脚本在侧栏渲染完后才插入，
+   以保证它能找到 busuanzi_value_* 三个元素并写入数字。*/
+function initVisitCounter() {
+  const btn = document.getElementById("visits-btn");
+  const box = document.getElementById("visits-box");
+  if (!btn || !box) return;
+
+  btn.addEventListener("click", () => {
+    const willShow = box.classList.contains("hidden");
+    box.classList.toggle("hidden", !willShow);
+    btn.textContent = willShow ? "Hide visit count ▾" : "Show visit count ▸";
+  });
+
+  const s = document.createElement("script");
+  s.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+  s.async = true;
+  document.body.appendChild(s);
+
+  // 不蒜子写入的是裸数字，补上千位分隔符
+  const ids = ["site_pv", "site_uv", "page_pv"];
+  const els = ids.map((id) => document.getElementById("busuanzi_value_" + id)).filter(Boolean);
+  const obs = new MutationObserver(() => {
+    for (const el of els) {
+      const raw = el.textContent.replace(/,/g, "").trim();
+      if (!/^\d+$/.test(raw)) continue;
+      const nice = Number(raw).toLocaleString("en-US");
+      if (el.textContent !== nice) el.textContent = nice;   // 相等时不写，避免循环触发
+    }
+  });
+  els.forEach((el) => obs.observe(el, { childList: true, characterData: true, subtree: true }));
+
+  // 统计服务偶尔会抽风，超时就给个明确提示，不要一直停在省略号
+  setTimeout(() => {
+    for (const el of els) {
+      if (el.textContent.trim() === "\u2026") el.textContent = "n/a";
+    }
+  }, 8000);
 }
