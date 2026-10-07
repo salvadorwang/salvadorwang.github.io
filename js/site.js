@@ -78,7 +78,6 @@ const SITE = {
         <div id="visits-box" class="visits hidden">
           <div class="visit-row"><span>Site views</span><b id="busuanzi_value_site_pv">…</b></div>
           <div class="visit-row"><span>Visitors</span><b id="busuanzi_value_site_uv">…</b></div>
-          <div class="visit-row"><span>This page</span><b id="busuanzi_value_page_pv">…</b></div>
         </div>
       </div>`;
     initPopups(root);
@@ -134,7 +133,7 @@ function initVisitCounter() {
   document.body.appendChild(s);
 
   // 不蒜子写入的是裸数字，补上千位分隔符
-  const ids = ["site_pv", "site_uv", "page_pv"];
+  const ids = ["site_pv", "site_uv"];
   const els = ids.map((id) => document.getElementById("busuanzi_value_" + id)).filter(Boolean);
   const obs = new MutationObserver(() => {
     for (const el of els) {
