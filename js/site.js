@@ -5,6 +5,9 @@
 
 // GoatCounter 统计代码（注册时填的 Code），只需改这一处
 const GOATCOUNTER_CODE = "salvadorwang";
+// 切换到 GoatCounter 之前（用不蒜子时）已累计的访问量，加到新数字上，
+// 这样计数不会从头开始。以后不需要可直接改成 0。
+const VISITS_BASELINE = 24;
 
 // 你的 ORCID iD（形如 0000-0002-1825-0097），只需改这一处
 const ORCID_ID = "0009-0004-2828-5797";
@@ -145,7 +148,10 @@ function initVisitCounter() {
       const r = await fetch(`${base}/counter/TOTAL.json`, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       const d = await r.json();
-      fill(d.count);
+      // GoatCounter 返回的是带千位分隔符的字符串，先还原成数字再加基准值
+      const n = Number(String(d.count).replace(/,/g, ""));
+      fill(Number.isFinite(n) ? (n + VISITS_BASELINE).toLocaleString("en-US")
+                              : d.count);
     } catch (e) {
       loaded = false;                       // 允许再点一次重试
       fill("n/a");
