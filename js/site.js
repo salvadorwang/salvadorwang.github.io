@@ -145,7 +145,12 @@ function initVisitCounter() {
     if (!willShow || loaded) return;
     loaded = true;
     try {
-      const r = await fetch(`${base}/counter/TOTAL.json`, { cache: "no-store" });
+      // GoatCounter 的公开计数接口会把结果缓存数小时，不带参数时常年返回旧值。
+      // 查询参数会进入缓存键，而任何早于站点上线的 start 日期统计结果都相同，
+      // 所以按小时轮换日期，既拿到最新数字又不改变统计口径。
+      const slot = String(new Date().getUTCHours() + 1).padStart(2, "0");
+      const url = `${base}/counter/TOTAL.json?start=2020-01-${slot}`;
+      const r = await fetch(url, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       const d = await r.json();
       // GoatCounter 返回的是带千位分隔符的字符串，先还原成数字再加基准值
