@@ -3,6 +3,9 @@
  * 改这里的 SITE 对象，所有页面的顶部导航和左侧个人栏同步更新。
  * ============================================================ */
 
+// GoatCounter 统计代码（注册时填的 Code），只需改这一处
+const GOATCOUNTER_CODE = "salvadorwang";
+
 // 你的 ORCID iD（形如 0000-0002-1825-0097），只需改这一处
 const ORCID_ID = "0009-0004-2828-5797";
 
@@ -76,8 +79,7 @@ const SITE = {
           <li><button class="link-btn" id="visits-btn">Show visit count ▸</button></li>
         </ul>
         <div id="visits-box" class="visits hidden">
-          <div class="visit-row"><span>Site views</span><b id="busuanzi_value_site_pv">…</b></div>
-          <div class="visit-row"><span>Visitors</span><b id="busuanzi_value_site_uv">…</b></div>
+          <div class="visit-row"><span>Total visitors</span><b id="gc_value_pv">…</b></div>
         </div>
       </div>`;
     initPopups(root);
@@ -114,41 +116,40 @@ function initPopups(root) {
   });
 }
 
-/* 访问量统计：不蒜子（第三方，免注册）。脚本在侧栏渲染完后才插入，
-   以保证它能找到 busuanzi_value_* 三个元素并写入数字。*/
+/* 访问量统计：GoatCounter（开源、不用 cookie、不采集个人数据）。
+   计数脚本每次打开页面都加载；数字等用户点按钮时再取，省一次请求。*/
 function initVisitCounter() {
   const btn = document.getElementById("visits-btn");
   const box = document.getElementById("visits-box");
   if (!btn || !box) return;
 
-  btn.addEventListener("click", () => {
-    const willShow = box.classList.contains("hidden");
-    box.classList.toggle("hidden", !willShow);
-    btn.textContent = willShow ? "Hide visit count ▾" : "Show visit count ▸";
-  });
+  const base = `https://${GOATCOUNTER_CODE}.goatcounter.com`;
 
+  // 计数脚本（无 cookie，不记录个人信息）
   const s = document.createElement("script");
-  s.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+  s.src = "https://gc.zgo.at/count.js";
   s.async = true;
+  s.setAttribute("data-goatcounter", `${base}/count`);
   document.body.appendChild(s);
 
-  // 不蒜子写入的是裸数字，补上千位分隔符
-  const ids = ["site_pv", "site_uv"];
-  const els = ids.map((id) => document.getElementById("busuanzi_value_" + id)).filter(Boolean);
-  const obs = new MutationObserver(() => {
-    for (const el of els) {
-      const raw = el.textContent.replace(/,/g, "").trim();
-      if (!/^\d+$/.test(raw)) continue;
-      const nice = Number(raw).toLocaleString("en-US");
-      if (el.textContent !== nice) el.textContent = nice;   // 相等时不写，避免循环触发
+  let loaded = false;
+  const fill = (v) => { document.getElementById("gc_value_pv").textContent = v; };
+
+  btn.addEventListener("click", async () => {
+    const willShow = box.classList.contains("hidden");
+    box.classList.toggle("hidden", !willShow);
+    btn.textContent = willShow ? "Hide visit count \u25be" : "Show visit count \u25b8";
+    if (!willShow || loaded) return;
+    loaded = true;
+    try {
+      const r = await fetch(`${base}/counter/TOTAL.json`, { cache: "no-store" });
+      if (!r.ok) throw new Error(r.status);
+      const d = await r.json();
+      fill(d.count);
+    } catch (e) {
+      loaded = false;                       // 允许再点一次重试
+      fill("n/a");
+      console.warn("visit counter unavailable", e);
     }
   });
-  els.forEach((el) => obs.observe(el, { childList: true, characterData: true, subtree: true }));
-
-  // 统计服务偶尔会抽风，超时就给个明确提示，不要一直停在省略号
-  setTimeout(() => {
-    for (const el of els) {
-      if (el.textContent.trim() === "\u2026") el.textContent = "n/a";
-    }
-  }, 8000);
 }
