@@ -1,6 +1,6 @@
 {
  "birthday": "2024-03-16",
- "updated": "2026-10-07",
+ "updated": "2026-11-02",
  "words": [
   {
    "date": "2024-06-10",
@@ -3833,6 +3833,238 @@
    "kana": "ききたい",
    "meaning": "want to hear",
    "pos": "v."
+  },
+  {
+   "date": "2026-10-07",
+   "zh": "凳凳",
+   "ja": null,
+   "kana": null,
+   "meaning": "chair",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-07",
+   "zh": null,
+   "ja": "カマキリ",
+   "kana": "かまきり",
+   "meaning": "mantis",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-07",
+   "zh": null,
+   "ja": "てんとう虫",
+   "kana": "てんとうむし",
+   "meaning": "ladybug",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-09",
+   "zh": "搂搂",
+   "ja": null,
+   "kana": null,
+   "meaning": "hug",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-09",
+   "zh": "攀岩",
+   "ja": null,
+   "kana": null,
+   "meaning": "bouldering",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-10",
+   "zh": "窝窝",
+   "ja": null,
+   "kana": null,
+   "meaning": "kennel",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-12",
+   "zh": null,
+   "ja": "松ふぐり",
+   "kana": "まつふぐり",
+   "meaning": "pine cone",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-15",
+   "zh": "牛牛",
+   "ja": null,
+   "kana": null,
+   "meaning": "cow",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-16",
+   "zh": "电视塔",
+   "ja": null,
+   "kana": null,
+   "meaning": "TV tower",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-22",
+   "zh": "买菜菜",
+   "ja": null,
+   "kana": null,
+   "meaning": "buy groceries",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-10-22",
+   "zh": "干净",
+   "ja": null,
+   "kana": null,
+   "meaning": "clean",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "パン屋",
+   "kana": "ぱんや",
+   "meaning": "bread shop",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "素敵",
+   "kana": "すてき",
+   "meaning": "lovely",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "お風呂",
+   "kana": "おふろ",
+   "meaning": "bath",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "ヨドバシ",
+   "kana": "よどばし",
+   "meaning": "a shop name",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "桃太郎",
+   "kana": "ももたろう",
+   "meaning": "a character name",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-23",
+   "zh": null,
+   "ja": "ポテト",
+   "kana": "ぽてと",
+   "meaning": "potato",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-27",
+   "zh": null,
+   "ja": "もらう",
+   "kana": "もらう",
+   "meaning": "receive",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-29",
+   "zh": null,
+   "ja": "ハロウィン",
+   "kana": "はろうぃん",
+   "meaning": "Halloween",
+   "pos": "n."
+  },
+  {
+   "date": "2026-10-29",
+   "zh": null,
+   "ja": "四",
+   "kana": "し",
+   "meaning": "four",
+   "pos": "num."
+  },
+  {
+   "date": "2026-10-29",
+   "zh": null,
+   "ja": "被る",
+   "kana": "こうむる",
+   "meaning": "cover",
+   "pos": "v."
+  },
+  {
+   "date": "2026-10-31",
+   "zh": "休息一下",
+   "ja": null,
+   "kana": null,
+   "meaning": "take a rest",
+   "pos": "ph."
+  },
+  {
+   "date": "2026-10-31",
+   "zh": null,
+   "ja": "タコ",
+   "kana": "たこ",
+   "meaning": "octopus",
+   "pos": "n."
+  },
+  {
+   "date": "2026-11-01",
+   "zh": null,
+   "ja": "鍋",
+   "kana": "なべ",
+   "meaning": "pot",
+   "pos": "n"
+  },
+  {
+   "date": "2026-11-01",
+   "zh": null,
+   "ja": "クーキー",
+   "kana": "くーきー",
+   "meaning": "cookie",
+   "pos": "n."
+  },
+  {
+   "date": "2026-11-01",
+   "zh": null,
+   "ja": "大好き",
+   "kana": "だいすき",
+   "meaning": "really like",
+   "pos": "adj."
+  },
+  {
+   "date": "2026-11-01",
+   "zh": "爱",
+   "ja": null,
+   "kana": null,
+   "meaning": "love",
+   "pos": "v."
+  },
+  {
+   "date": "2026-11-01",
+   "zh": null,
+   "ja": "疲れた",
+   "kana": "つかれた",
+   "meaning": "tired",
+   "pos": "v."
+  },
+  {
+   "date": "2026-11-01",
+   "zh": "累了",
+   "ja": null,
+   "kana": null,
+   "meaning": "tired",
+   "pos": "adj."
   }
  ]
 }
